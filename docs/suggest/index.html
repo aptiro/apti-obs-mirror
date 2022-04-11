@@ -2,6 +2,7 @@
 <html lang="en-GB">
     	<head>
         <link rel="icon" href="../theme/default/img/favicon.ico"/>
+        <meta http-equiv="refresh" content="0; url=/"/>
 		<meta charset="utf-8"/>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
         <title>
@@ -282,51 +283,6 @@
        };
 </script>
 
-<h1>Suggest article</h1>
-
-<p>
-  Please include the article's title, and the first paragraph of
-  content, to make the editors' work easier.
-</p>
-
-<form method="post" action="index.html">
-  <div class="form-group">
-    <label for="suggest-url">URL</label>
-    <input class="form-control" id="suggest-url" name="url"
-           placeholder="http://... or https://..." value="">
-  </div>
-
-  <div class="form-group">
-    <label for="suggest-title">Title</label>
-    <input class="form-control" id="suggest-title"
-           name="title" value="">
-  </div>
-
-  <div class="form-group">
-    <label for="suggest-description">Description</label>
-    <textarea class="ckeditor" id="suggest-description"
-              name="description"></textarea>
-  </div>
-
-  <div class="g-recaptcha" data-sitekey="6LclWgATAAAAANAk7hz5eAg1jbUtbuQgV0KeHFYN"></div>
-  <script src='https://www.google.com/recaptcha/api.js'></script>
-
-  <button type="submit" class="btn btn-default">Submit</button>
-</form>
-
-
-<h2>Install the Observatory bookmarklet</h2>
-
-<p>
-    The <a href="javascript:(function(){var u=location.href,d=document.getSelection?document.getSelection():&#039;&#039;,t=document.title;open(&#039;http://observatory.mappingtheinternet.eu/suggest/?url=&#039;+encodeURIComponent(u)+&#039;&amp;description=&#039;+encodeURIComponent(d)+&#039;&amp;title=&#039;+encodeURIComponent(t))})();">Suggest to Observatory</a> bookmarklet
-  will send the current page to the observatory.
-</p>
-
-<p>
-  To install it, on Firefox/Safari/Chrome/Opera, drag the link to your
-  bookmarks toolbar. On Internet Explorer, right-click on the bookmarklet,
-  and select "add to Favorites".
-</p>
 
             </div>
                                 </div> 
