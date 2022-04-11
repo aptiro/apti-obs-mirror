@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://observatory.mappingtheinternet.euoverview/Privacy/NL/feed.xml</id>
+  <title>Policy Observatory for Privacy in NL</title>
+  <updated>2018-02-28T14:38:17+02:00</updated>
+  <author><name>Policy Observatory</name></author>
+
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-dpa-microsoft-breaches-data-protection-law-with-windows-10-1</id>
+      <title>Dutch DPA: Microsoft breaches data protection law with Windows 10</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-dpa-microsoft-breaches-data-protection-law-with-windows-10-1" />
+      <updated>2017-10-13T14:09:48+02:00</updated>
+      <summary type="html">&lt;p&gt;Microsoft breaches the Dutch data protection law by processing personal data of people that use the Windows 10 operating system on their computers. This is the conclusion of the Dutch Data Protection Authority (DPA) after its investigation of Windows 10 Home and Pro.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/test-at-amsterdam-airport-schiphol-quick-and-easy-boarding-using</id>
+      <title>Test at Amsterdam Airport Schiphol: quick and easy boarding using facial recognition</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/test-at-amsterdam-airport-schiphol-quick-and-easy-boarding-using" />
+      <updated>2018-02-28T14:38:17+02:00</updated>
+      <summary type="html">&lt;p&gt;Together with the airline KLM, Amsterdam Airport Schiphol has started a trial with voluntary ‘biometric boarding’, involving boarding without having to show your boarding pass and passport. Passengers can board quickly and easily via a separate gate that identifies passengers using facial recognition. Schiphol and KLM are assessing facial recognition technology with this trial, testing the speed, reliability and user-friendliness of the system. The boarding process and passenger experience will also be evaluated. The ultimate goal is to make the boarding process as easy and quick as possible for passengers. The trial period will last at least three months.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/corporations-use-facial-recognition-for-marketing-and-profiling</id>
+      <title>Corporations use facial recognition for marketing and profiling</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/corporations-use-facial-recognition-for-marketing-and-profiling" />
+      <updated>2018-02-28T14:35:43+02:00</updated>
+      <summary type="html">&lt;p&gt;In the Netherlands the use of facial recognition technologies for marketing and profiling purposes of customers seems to be increasing. According to the source, this is legally allowed in cases where costumers provide consent. The article highlights the mainstreaming of biometrical technologies. It is questionable if the general public agrees to the widespread use of such technologies and what the impact on societal interaction will be once the technologies have become ubiquitous.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-police-increasingly-using-facial-recognition-technology</id>
+      <title>Dutch police increasingly using facial recognition technology</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-police-increasingly-using-facial-recognition-technology" />
+      <updated>2018-02-28T14:30:55+02:00</updated>
+      <summary type="html">&lt;p&gt;The Dutch police has a facial recognition database containing &quot;well over a million&quot; faces of people taken into temporary detention (and consequently in the &quot;strafrechtdatabase&quot;). According to the news source, police ran approximately one thousand suspects through it, which led to 93 hits. There are at least three humans involved in the process as safeguarding measure: one before a photograph is fed through the algorithm to look at consider aspects such as the quality of the picture. Two humans are checking the results of the automated process. Furthermore, a hit is seen as in &quot;indication&quot; of someone&#039;s identity, not as definite proof.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-dpa-airbnb-ends-processing-of-national-identity-numbers</id>
+      <title>Dutch DPA: Airbnb ends processing of national identity numbers</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-dpa-airbnb-ends-processing-of-national-identity-numbers" />
+      <updated>2018-02-09T19:49:32+02:00</updated>
+      <summary type="html">&lt;p&gt;The American company Airbnb has ended the processing of Dutch national identity numbers (BSN) at the insistence of the Dutch data protection authority (Dutch DPA). Airbnb now immediately and automatically deletes the BSN from all digital copies of Dutch identity documents and has deleted all previously collected national identity numbers. The Dutch DPA has received approximately 100 signals from Dutch citizens about the unlawful use of their BSN by Airbnb, and has collaborated with the Irish Data Protection Commissioner to make Airbnb end the infringement.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/investigation-shows-dutch-companies-share-customer-data-without</id>
+      <title>Investigation shows Dutch companies share customer data without consent</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/investigation-shows-dutch-companies-share-customer-data-without" />
+      <updated>2017-11-11T19:10:18+02:00</updated>
+      <summary type="html">&lt;p&gt;Research by the Dutch Consumers Association shows that multiple companies share customer data with Facebook without consent for more targeted advertising. Sharing such information without permission is prohibited in the Netherlands under the Data Protection Act, as confirmed by the Personal Data Authority (AP). Yet, not all companies concerned have stopped sharing data, arguing it is a common practice under companies advertising online. They claim to encrypt their data, making it impossible for Facebook to use it. According to the AP, it is not relevant whether or not the data is encrypted.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/netherlands-to-hold-referendum-on-new-surveillance-law</id>
+      <title>Netherlands to hold referendum on new surveillance law</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/netherlands-to-hold-referendum-on-new-surveillance-law" />
+      <updated>2018-02-28T13:22:12+02:00</updated>
+      <summary type="html">&lt;p&gt;The new Dutch surveillance law will be voted on in a non-legally binding referendum. On March 21 2018 the referendum will be held together with the municipal elections. A campaign demanding the referendum resulted in 384.000 valid signatures on a new law governing surveillance activities in the Netherlands. The law has already passed the two chambers of Dutch parliament and is bound to come into force during the first half of 2018. Nevertheless, the so-called “Dragnet law” (Sleepwet) was subject to a large and on-going public discussion. Despite the fact that a potential “no” to the law will not result in a formal withdrawal of the law, political pressure on the government to reconsider the bill would rise significantly.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/netherlands-sharing-of-travel-data-violated-students-privacy</id>
+      <title>Netherlands: Sharing of travel data violated students’ privacy</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/netherlands-sharing-of-travel-data-violated-students-privacy" />
+      <updated>2017-10-21T19:33:20+02:00</updated>
+      <summary type="html">&lt;p&gt;Translink, the company responsible for the Dutch public transport card “OV-chipkaart” had been passing student travel data to the Education Executive Agency responsible for student finance in the Netherlands (DUO). DUO uses this data to figure out whether students who claim to live on their own – and therefore receive a supplementary grant – actually still live with their parents. A court ruled that this was violating students’ privacy.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-house-of-representatives-passes-dragnet-surveillance-bill</id>
+      <title>Dutch House of Representatives passes dragnet surveillance bill</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-house-of-representatives-passes-dragnet-surveillance-bill" />
+      <updated>2017-08-11T15:34:40+02:00</updated>
+      <summary type="html">&lt;p&gt;On Tuesday February 14, 2017 the bill for the new Intelligence and Security Services Act was passed by the Dutch lower house. Despite being met with serious opposition from experts, regulators, civil society, political parties and citizens, the revised bill passed virtually unchanged from the proposal submitted to the lower house.&lt;/p&gt;&lt;p&gt;On several points the revised bill is an important improvement on the current law, and on the proposal that was put up for public consultation in 2015. For instance, many of the agency’s powers now will require a sign-off from the Minister of the Interior and a review committee. We’re also pleased to see the construction of a framework for online research conducted by the agencies.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-senate-votes-in-favor-of-dragnet-surveillance-powers</id>
+      <title>Dutch Senate votes in favor of dragnet surveillance powers</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-senate-votes-in-favor-of-dragnet-surveillance-powers" />
+      <updated>2017-08-11T15:23:19+02:00</updated>
+      <summary type="html">&lt;p&gt;Dragnet surveillance in the Netherlands is a fact. Last night a new bill for the secret services was passed that allows for the systematic and large-scale interception of citizens’ communication.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-data-protection-authority-facebook-violates-privacy-law-1</id>
+      <title>Dutch data protection authority: Facebook violates privacy law</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-data-protection-authority-facebook-violates-privacy-law-1" />
+      <updated>2017-07-31T23:52:13+02:00</updated>
+      <summary type="html">&lt;p&gt;After its investigation into the processing of personal data of 9.6 million Facebook users in the Netherlands, the Dutch DPA concludes that Facebook violates privacy law. The company breaches Dutch data protection law including by giving users insufficient information about the use of their personal data. The Dutch DPA has also found that the Facebook Group uses sensitive personal data from users without their explicit consent. For example, data relating to sexual preferences were used to show targeted advertisements. The Facebook Group has made changes to end the use of this type of data for this latter purpose. The Dutch DPA currently assesses whether the other violations have stopped. If that is not the case, the Dutch DPA may decide to issue a sanction.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-data-protection-authority-facebook-violates-privacy-law</id>
+      <title>Dutch data protection authority: Facebook violates privacy law</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-data-protection-authority-facebook-violates-privacy-law" />
+      <updated>2017-06-13T00:52:57+02:00</updated>
+      <summary type="html">&lt;p&gt;Facebook Group violates Dutch data protection law. That is the conclusion of the Dutch Data Protection Authority (Autoriteit Persoonsgegevens; hereinafter: DPA) after its investigation into the processing of personal data of 9.6 million Facebook users in the Netherlands. The company breaches Dutch data protection law including by giving users insufficient information about the use of their personal data. The Dutch DPA has also found that the Facebook Group uses sensitive personal data from users without their explicit consent. For example, data relating to sexual preferences were used to show targeted advertisements. The Facebook Group has made changes to end the use of this type of data for this latter purpose. The Dutch DPA currently assesses whether the other violations have stopped. If that is not the case, the Dutch DPA may decide to issue a sanction.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/predictive-policing-going-big-in-the-netherlands</id>
+      <title>Predictive policing going big in the Netherlands</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/predictive-policing-going-big-in-the-netherlands" />
+      <updated>2017-08-11T15:54:25+02:00</updated>
+      <summary type="html">&lt;p&gt;The National Police is launching a system that predicts crimes based on accurate criminal data. This Crime Anticipation System (CAS) has already been experimented in, among others, Amsterdam and The Hague. In the pilot phase of the system, cities were divided into subjects of 125 by 125 meters. Of these subjects, crime data were collected for two years. Based on this data, the chance of a new incident can be calculated. These include crimes involving a pattern such as bicycle theft, burglaries, baggage wrecks and car crashes.&lt;/p&gt;&lt;p&gt;On the basis of that data, for example a weekly hausse on bicycle showcases on Friday afternoon, the police&#039;s schedule can be adjusted. The data may also give rise to burglary prevention in certain neighborhoods. The test took place in Amsterdam, The Hague and cities in East and North Netherlands and Noord-Holland. The system records the addresses of [those who frequently commit crimes] and suspects in a radius of 500 to 1000 meters. The distance to the nearest resident suspect in cases such as burglary and street robbery is also recorded. Corporations wishing to join the system can register with the National Police. It strives to connect all [police forces] to the system by the end of next year. The Netherlands is then the first country in the world with such a policing system. Agents receive an update of risk areas every week. The CBS also provides data for the system.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/ductch-health-minister-under-fire-for-plan-to-let-police-grab-me</id>
+      <title>Ductch health minister under fire for plan to let police grab medical DNA records</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/ductch-health-minister-under-fire-for-plan-to-let-police-grab-me" />
+      <updated>2017-08-11T15:58:11+02:00</updated>
+      <summary type="html">&lt;p&gt;Privacy campaigners have attacked departing health minister Edith Schippers for reviving a plan to use DNA samples taken by medical staff in criminal investigations. Schippers has launched an internet consultation into the plan, which would give police and prosecutors access to the DNA databases kept by hospitals. Campaign group Privacy Barometer said the plan violated article 8 of the European Convention on Human Rights, which states that people must be informed when their personal data is being used as part of a criminal inquiry.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-police-to-register-sympathisers-of-kurdish-separatist-pkk</id>
+      <title>Dutch police to register sympathisers of Kurdish separatist PKK</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-police-to-register-sympathisers-of-kurdish-separatist-pkk" />
+      <updated>2016-09-13T15:32:24+02:00</updated>
+      <summary type="html">&lt;p&gt;Dutch police are planning to register the names of Dutch Turks who sympathise with the Kurdish separatist movement PKK in their official computer system, the Telegraaf said on Tuesday.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/data-protection-lobby-tomy-1-influencing-the-dutch-government</id>
+      <title>Data Protection Lobby-tomy 1: Influencing the Dutch government</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/data-protection-lobby-tomy-1-influencing-the-dutch-government" />
+      <updated>2016-10-31T08:50:26+02:00</updated>
+      <summary type="html">&lt;p&gt;The new European data protection regulation is the most lobbied piece of legislation in Europe thus far because the subject is very important and touches upon almost every aspect of our daily lives. That’s why we used the Dutch freedom of information act to ask the government to publicize all the lobby documents they received. They show what kind of organizations have tried to influence the Dutch government and what their positions are. In these blogs we provide some insight. What kind of organizations are lobbying? What are the most important themes that constantly surface? What kind of arguments are used?&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/new-netherlands-notification-requirements-will-change-data-contr</id>
+      <title>New Netherlands notification requirements will change data controllers’ view of cybersecurity</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/new-netherlands-notification-requirements-will-change-data-contr" />
+      <updated>2016-08-24T13:46:42+02:00</updated>
+      <summary type="html">&lt;p&gt;Effective 1 January 2017, Dutch data protection law requires organizations to notify the Dutch Data Protection Authority within 72 hours of “a breach of security […] which results in a significant chance of severe detrimental effects or has severe detrimental effects for the protection of the private life&quot;. The data subject must also be informed if “the breach probably will result in adverse effects on their private life”. These obligations only apply if the Dutch Data Protection Act applies, for instance in situations wherein a Dutch entity is data controller.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/mediation-by-dutch-dpa-concerning-delisting-of-search-results-by</id>
+      <title>Mediation by Dutch DPA concerning delisting of search results by Google</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/mediation-by-dutch-dpa-concerning-delisting-of-search-results-by" />
+      <updated>2016-08-24T13:43:30+02:00</updated>
+      <summary type="html">&lt;p&gt;Since July 2014, the Dutch Data Protection Authority has received 111 requests to delist search results on a person&#039;s name in a search engine. The right to de-list information from the index of a search engine follows a ruling by the European Court of Justice in the case Google Spain (C-131/12). All requests related to Google. In 32 cases the Dutch DPA has mediated between Google and the data subject. In 24 cases the search results were delisted.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-privacy-watchdog-to-nike-you-cant-just-do-it</id>
+      <title>Dutch Privacy Watchdog to Nike - You Can&#039;t Just Do It</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-privacy-watchdog-to-nike-you-cant-just-do-it" />
+      <updated>2016-08-24T13:51:05+02:00</updated>
+      <summary type="html">&lt;p&gt;After an investigation by the Dutch Data Protection authority, Nike agreed to take measures to remedy any Dutch privacy violations found in the way it’s Nike+ app was designed. These include: notifying existing users of the app (and Nike+ users on the web) that height and weight are optional, and asking them for consent to retain existing data; introducing a single privacy policy with greater disclosures and a data retention period for inactive users. The Nike+ investigation provides valuable guidance for the mobile health industry regarding privacy issues.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-government-encryption-good-backdoors-bad</id>
+      <title>Dutch government: Encryption good, backdoors bad</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-government-encryption-good-backdoors-bad" />
+      <updated>2016-08-24T13:49:08+02:00</updated>
+      <summary type="html">&lt;p&gt;The Dutch government has released a statement in which it says that &quot;it is currently not desirable to take restricting legal measures concerning the development, availability and use of encryption within the Netherlands&quot;. It also notes that forcing companies to add backdoors to their products and services would have &quot;undesirable consequences for the security of communicated and stored information,&quot; since &quot;digital systems can become vulnerable to criminals, terrorists and foreign intelligence services&quot;.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-court-to-hear-action-by-tribesmen-devastated-by-drones</id>
+      <title>Dutch court to hear action by tribesmen devastated by drones</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-court-to-hear-action-by-tribesmen-devastated-by-drones" />
+      <updated>2016-02-16T16:01:14+02:00</updated>
+      <summary type="html">&lt;p&gt;A legal action by two Somali tribesmen whose lives were devastated by an American drone strike last year is to be heard in a Dutch court due to the fact that the Dutch intelligence Service MIVD provided processed data used for a US-directed drone strike.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/safe-harbor-solution-not-coming-any-time-soon-says-dutch-ministe</id>
+      <title>Safe Harbor solution not coming any time soon, says Dutch minister</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/safe-harbor-solution-not-coming-any-time-soon-says-dutch-ministe" />
+      <updated>2016-02-16T15:32:27+02:00</updated>
+      <summary type="html">&lt;p&gt;A solution to the Safe Harbor data framework will not hit its January 2016 deadline, raising the possibility of large fines levied against companies like Facebook in the New Year. That&#039;s according to Dutch justice minister Ard van der Steur, who has published a &lt;a href=&quot;http://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2015Z23094&amp;amp;did=2015D46706&quot;&gt;lengthy response&lt;/a&gt; to Parliamentary questions on the issue.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/monitoring-shop-customers-via-wi-fi-tracking-technology-breaks-p</id>
+      <title>Monitoring shop customers via Wi-Fi tracking technology breaks privacy rules</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/monitoring-shop-customers-via-wi-fi-tracking-technology-breaks-p" />
+      <updated>2016-02-16T15:29:58+02:00</updated>
+      <summary type="html">&lt;p&gt;The Dutch Data Protection Authority (CPB) has ordered a company which tracks the behaviour of people in shops by using their mobile phone signals to change its methods, saying they are breaking privacy legislation. Bluetrace has developed equipment allowing shopkeepers to monitor what people do in their stores and how long they spend where using Wi-Fi tracking technology.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-public-sector-agency-issues-app-security-requirements</id>
+      <title>Dutch public sector agency issues app security requirements</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-public-sector-agency-issues-app-security-requirements" />
+      <updated>2016-02-16T15:04:58+02:00</updated>
+      <summary type="html">&lt;p&gt;The Dutch public sector IT security agency Centrum voor Informatiebeveiliging en Privacybescherming (CIP) has developed with a number of partners 19 security requirements to help developers and suppliers make safe applications for smartphones and tablets. The agency started the project to address the growing use of mobile apps for public services and communication.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-government-to-consider-new-data-retention-bill</id>
+      <title>Dutch government to consider new data retention bill</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-government-to-consider-new-data-retention-bill" />
+      <updated>2016-02-16T14:53:45+02:00</updated>
+      <summary type="html">&lt;p&gt;The Dutch Ministry of Security and Justice is coming out with a new data retention proposal, the Cabinet announced after a meeting on 30 October. Data retention will return, with the same terms as initially set: 6 months for internet data traffic and 12 months for call data. To minimize the impact on privacy, several conditions have to be met, including pre-trial detention, crime severity, magistrate review, and data processing and storage within the EU.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/netherlands-evidence-obtained-in-breach-of-privacy-law-is-inadmi</id>
+      <title>Netherlands: evidence obtained in breach of privacy law is inadmissible</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/netherlands-evidence-obtained-in-breach-of-privacy-law-is-inadmi" />
+      <updated>2016-02-16T16:40:47+02:00</updated>
+      <summary type="html">&lt;p&gt;The Dutch Supreme Court recently ruled that insurers have only a limited possibility to use evidence obtained in breach of privacy rules. This inadmissibility of evidence is in line with the recent trend of stricter civil law sanctioning for the violations of privacy law. In labour law cases, Dutch courts awarded immaterial damages to employees whose laptops and telephones have been searched by their employers in breach of privacy rules.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-data-protection-authority-publishes-consultation-version-o</id>
+      <title>Dutch Data Protection Authority publishes consultation version of guidelines on breach notice law</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-data-protection-authority-publishes-consultation-version-o" />
+      <updated>2016-02-16T14:56:25+02:00</updated>
+      <summary type="html">&lt;p&gt;The Dutch Data Protection Authority (CBP) published a consultation document with &lt;a href=&quot;https://cbpweb.nl/sites/default/files/atoms/files/richtsnoeren_meldplicht_datalekken.pdf&quot;&gt;draft guidelines&lt;/a&gt; on the breach notice obligation&amp;nbsp;of data controllers in the Netherlands. Under the law, data controllers are required to provide notice of data breaches to the CBP and, under certain circumstances, to the affected individuals. This obligation will take effect on January 1,&amp;nbsp;2016.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/proposed-new-law-gives-intelligence-services-broader-powers</id>
+      <title>Proposed new law gives intelligence services broader powers</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/proposed-new-law-gives-intelligence-services-broader-powers" />
+      <updated>2016-02-16T16:35:08+02:00</updated>
+      <summary type="html">&lt;p&gt;On July 2, the Minister of the Internal Affairs &lt;a href=&quot;https://www.internetconsultatie.nl/wiv&quot;&gt;proposed and published&lt;/a&gt; (source document in Dutch) a new Intelligence and Security Services Act as part of an internet consultation process. The law provides the Dutch intelligence and security agencies with more powers for intercepting communications and searching automated systems.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/privacy-concerns-regarding-dutch-ubo-register</id>
+      <title>Privacy concerns regarding Dutch UBO register</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/privacy-concerns-regarding-dutch-ubo-register" />
+      <updated>2016-02-16T23:14:58+02:00</updated>
+      <summary type="html">&lt;p&gt;On June 9, two major Dutch business lobby organizations expressed privacy concerns in a &lt;a href=&quot;http://www.vno-ncw.nl/SiteCollectionDocuments/Brieven/150609%20brief%20aan%20Kamp%20EZ%20-%20implementatie%204e%20anti%20witwas%20richtlijn%20%283%29.pdf&quot;&gt;letter to the Minister of Economic Affairs and the Minister of Security and Justice&lt;/a&gt; (source document in Dutch) regarding the implementation of the Fourth Anti-Money Laundering Directive. The Directive requires EU member states to establish a register of ultimate beneficiary owners (&quot;UBOs&quot;), which would contain information about persons holding at least 25 percent of the voting rights or capital interest in a company.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-tax-authority-to-use-imsi-catchers-to-track-smartphones</id>
+      <title>Dutch Tax Authority to use IMSI catchers to track smartphones</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-tax-authority-to-use-imsi-catchers-to-track-smartphones" />
+      <updated>2016-02-16T23:10:20+02:00</updated>
+      <summary type="html">&lt;p&gt;The Dutch Minister of Economic Affairs, Henk Kamp, announced on August 17, 2015, that the Fiscal Intelligence and Investigation Service (Fiscale inlichtingen-en opsporingsdienst, FIOD), a special investigatory unit under the country’s Tax and Customs Administration, will have the authority “to track and tap smartphones and tablets, including pre-paid sim cards&quot;.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/amsterdam-privacy-week</id>
+      <title>Amsterdam Privacy Week</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/amsterdam-privacy-week" />
+      <updated>2015-08-21T14:54:38+02:00</updated>
+      <summary type="html">&lt;p&gt;From 23-29 October 2015, Amsterdam will be the place to be for privacy and data protection specialist from across the globe as three renowned international privacy conferences have chosen Amsterdam as their location that week.&amp;nbsp;The Amsterdam Privacy Conference 2015&amp;nbsp;will last from 23-26 October, on 26th the&amp;nbsp;Privacy Law Scholars Conference (PLSC)&amp;nbsp;will organize 24 paper panels at the conference venue of APC2015, and from 26-29 October, the&amp;nbsp;37th International Data Protection and Privacy Commissioners Conference&amp;nbsp;will take place. One week, three international privacy conferences.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/the-new-dutch-security-act-and-its-impact-on-internet-startup-up</id>
+      <title>The new Dutch Security Act and its impact on Internet startup-ups</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/the-new-dutch-security-act-and-its-impact-on-internet-startup-up" />
+      <updated>2016-02-15T11:27:56+02:00</updated>
+      <summary type="html">&lt;p&gt;The Dutch legal context went through a lot of changes since 2013 when it scored one of the highest privacy ratings in the world. Now, the judicial infrastructure is changing and a new law proposal gives more powers to the Dutch General Intelligence, Security Service and Military Intelligence Agencies to mass survey and wiretap innocent civilians.&lt;/p&gt;&lt;p&gt;The law not only has huge implications for Dutch civilians, it also has a huge impact on internationally focused Dutch startups as they fall under the proposed regulation. For example, there is a new law proposal which allows the Dutch General Intelligence, Security Service and Military Intelligence Agencies to mass survey and wiretap innocent civilians.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/updated-dutch-saecret-service-bill-in-public-consultation</id>
+      <title>Updated Dutch secret service bill in public consultation</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/updated-dutch-saecret-service-bill-in-public-consultation" />
+      <updated>2015-09-09T23:02:00+02:00</updated>
+      <summary type="html">&lt;p&gt;Last week, the updated version of the Dutch secret service bill has been published for public consultation. Ronald Plasterk, the Dutch Minister of the Interior, wants to make sure that the Dutch secret services have the powers to spy on the behaviour of all citizens and gain insight in all of their communications: phone calls, emails, chat messages and website visits.&lt;/p&gt;&lt;p&gt;The secret services will gain the power to use a dragnet form of surveillance. The Minister has given assurances that the dragnet will only be used for specific purposes, but has not provided adequate safeguards limiting the mass surveillance of unsuspected citizens. A second issue in the proposed bill is access to this bulk data by foreign services. Data which has been intercepted in bulk by the Dutch secret services can be shared in bulk with foreign services, even before the data has been evaluated.&lt;/p&gt;&lt;p&gt;The &lt;a href=&quot;https://www.internetconsultatie.nl/wiv/reageren/&quot;&gt;online consultation&lt;/a&gt; will be open till September 1st, 2015.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-police-automatically-incerceps-internet-traffic</id>
+      <title>Dutch police automatically incerceps Internet traffic</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-police-automatically-incerceps-internet-traffic" />
+      <updated>2016-02-16T15:50:25+02:00</updated>
+      <summary type="html">&lt;p&gt;Dutch police now automatically intercept internet traffic when setting up a telephone tap, online magazine Computerworld reports on Thursday. The news was buried in the justice ministry’s annual report which was published in May and has only now been made public, the website states.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/allegedly-illegal-telephone-tapping-decisions-overturned-by-dutc</id>
+      <title>Allegedly illegal telephone tapping decisions overturned by Dutch tribunal</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/allegedly-illegal-telephone-tapping-decisions-overturned-by-dutc" />
+      <updated>2016-02-16T23:19:53+02:00</updated>
+      <summary type="html">&lt;p&gt;By two judgments of 7 July 2015, the Dutch Trade and Industry Appeals Tribunal (&quot;Appeals Tribunal&quot;) overturned two earlier judgments of the Rotterdam District Court (&quot;District Court&quot;) which had annulled two cartel decisions of the Dutch Competition Authority (&quot;DCA&quot;) due to the alleged illegal use of evidence derived from telephone taps.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/wifi-tracking-and-the-eprivacy-directive-in-denmark</id>
+      <title>WiFi tracking and the ePrivacy Directive in Denmark</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/wifi-tracking-and-the-eprivacy-directive-in-denmark" />
+      <updated>2015-07-01T22:07:43+02:00</updated>
+      <summary type="html">&lt;p&gt;Citizens are increasingly being monitored and tracked by public authorities and commercial interests. Many carry digital devices which, by design, emit a unique identifier, such as the WiFi Media Access Control (MAC) address of a smartphone. Even though the MAC address does not directly reveal the identity of a person, it can be used for recognising individuals between different sensor points and tracking their movements. With a sufficient number of sensors, an almost complete profile of a person’s movement in a city can be obtained without consent.&lt;/p&gt;&lt;p&gt;The Danish Business Authority, which is the regulatory authority for the Danish transposition of the ePrivacy Directive, initially indicated in media comments that these systems were subject to Article 5(3) of the ePrivacy Directive and that consent was required. There is no practical way that the required consent could be obtained, so this would effectively have forced the Danish municipalities to stop their traffic monitoring projects.&lt;/p&gt;&lt;p&gt;In January 2015, a formal request to the Danish Business Authority about the collection of MAC addresses was submitted and the Danish Business Authority rendered a formal decision on the matter which reversed its initial position that the consent requirement of Article 5(3) applies to these systems.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-dpa-comments-on-public-private-online-identification-stand</id>
+      <title>Dutch DPA comments on public-private online identification standard</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-dpa-comments-on-public-private-online-identification-stand" />
+      <updated>2016-02-16T16:38:08+02:00</updated>
+      <summary type="html">&lt;p&gt;On June 11, the Dutch Data Protection Authority &lt;a href=&quot;https://cbpweb.nl/nl/nieuws/cbp-maakt-eerste-analyse-van-eid-stelsel&quot;&gt;commented on eID&lt;/a&gt; (source document in Dutch), a proposed new standard for online identification for access to both corporate and government services. The authority expressed concerns about the shared responsibility and accountability for the platform and noted that the Data Protection Act requires the appointment of a single responsible party.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/new-google-public-transport-service-launched-in-the-netherlands</id>
+      <title>New Google public transport service launched in the Netherlands</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/new-google-public-transport-service-launched-in-the-netherlands" />
+      <updated>2015-06-16T00:48:11+02:00</updated>
+      <summary type="html">&lt;p&gt;&lt;style type=&quot;text/css&quot;&gt;p { margin-bottom: 0.08in; direction: ltr; color: rgb(0, 0, 0); }p.western { font-family: &quot;Times New Roman&quot;,serif; font-size: 12pt; }p.cjk { font-family: &quot;WenQuanYi Zen Hei&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }p.ctl { font-family: &quot;Lohit Hindi&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }a:visited { color: rgb(128, 0, 128); }a.western:visited {  }a.cjk:visited {  }a.ctl:visited {  }a.western:link {  }a.ctl:link {  }&lt;/style&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;The Netherlands has become the first country in the world where Google is providing up-to-date public transport information via its Google Maps service.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-woman-asks-court-to-order-facebook-to-identify-revenge-por-1</id>
+      <title>Dutch woman asks court to order Facebook to identify revenge porn perpetrator</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-woman-asks-court-to-order-facebook-to-identify-revenge-por-1" />
+      <updated>2015-06-21T11:41:51+02:00</updated>
+      <summary type="html">&lt;p&gt;&lt;style type=&quot;text/css&quot;&gt;p { margin-bottom: 0.08in; direction: ltr; color: rgb(0, 0, 0); }p.western { font-family: &quot;Times New Roman&quot;,serif; font-size: 12pt; }p.cjk { font-family: &quot;WenQuanYi Zen Hei&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }p.ctl { font-family: &quot;Lohit Hindi&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }a:visited { color: rgb(128, 0, 128); }a.western:visited {  }a.cjk:visited {  }a.ctl:visited {  }a.western:link {  }a.ctl:link {  }&lt;/style&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;A Dutch woman is going to court to try to find out who is responsible for placing a home-made sex film she features in online. The woman’s lawyer, Thomas van Vugt, says this is the first time the Dutch courts are being asked to order Facebook to hand over information about one of its users. ‘The verdict will be of great importance to other victims,’ he said.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-parliament-adopts-data-breach-notification-obligation-and</id>
+      <title>Dutch Parliament adopts data breach notification obligation and increases fines</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-parliament-adopts-data-breach-notification-obligation-and" />
+      <updated>2015-06-16T00:51:28+02:00</updated>
+      <summary type="html">&lt;p&gt;&lt;style type=&quot;text/css&quot;&gt;p { margin-bottom: 0.08in; direction: ltr; color: rgb(0, 0, 0); }p.western { font-family: &quot;Times New Roman&quot;,serif; font-size: 12pt; }p.cjk { font-family: &quot;WenQuanYi Zen Hei&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }p.ctl { font-family: &quot;Lohit Hindi&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }a:visited { color: rgb(128, 0, 128); }a.western:visited {  }a.cjk:visited {  }a.ctl:visited {  }a.western:link {  }a.ctl:link {  }&lt;/style&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;The Dutch Senate passed a new law adding a new provision article 34.a to the Dutch data protection law &lt;em&gt;Wet Bescherming Persoonsgegevens, &lt;/em&gt; which introduces an obligation to notify the Dutch DPA ‘without delay’ in case of a data breach and the related data subjects, broadens the powers of the Dutch DPA with significantly higher fines for a wide range of privacy violations, sets out the exemption conditions for data breach duty on taking active measures to make the such data incomprehensible and inaccessible, and changes the name of Dutch DPA to Autoriteit Persoonsgegevens (Personal Data Authority).&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/security-in-times-of-surveillance</id>
+      <title>Conference: Security in Times of Surveillance</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/security-in-times-of-surveillance" />
+      <updated>2015-05-19T20:58:42+02:00</updated>
+      <summary type="html">&lt;p&gt;The Eindhoven Institute for the Protection of Systems and Information (Ei/PSI) organized a 1-day event on Security in Times of Surveillance. The event featured eight invited talks covering technical as well as legal and political aspects of security and surveillance. The videos and slides of the conferences are available &lt;a href=&quot;https://projectbullrun.org/surveillance/2015/video-2015.html?hs=true&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/nsa-had-particular-interest-in-dutch-internet-traffic-1</id>
+      <title>NSA had ‘particular interest’ in Dutch internet traffic</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/nsa-had-particular-interest-in-dutch-internet-traffic-1" />
+      <updated>2015-06-16T00:45:07+02:00</updated>
+      <summary type="html">&lt;p&gt;&lt;style type=&quot;text/css&quot;&gt;p { margin-bottom: 0.08in; direction: ltr; color: rgb(0, 0, 0); }p.western { font-family: &quot;Times New Roman&quot;,serif; font-size: 12pt; }p.cjk { font-family: &quot;WenQuanYi Zen Hei&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }p.ctl { font-family: &quot;Lohit Hindi&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }a:visited { color: rgb(128, 0, 128); }a.western:visited {  }a.cjk:visited {  }a.ctl:visited {  }a.western:link {  }a.ctl:link {  }&lt;/style&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;An Austrian green party politician is claiming the American secret service NSA had a particular interest in the Netherlands and that it was top of a NSA priority list.&lt;/p&gt;&lt;style type=&quot;text/css&quot;&gt;h2 { margin-top: 0.17in; margin-bottom: 0.04in; direction: ltr; color: rgb(0, 0, 0); }h2.western { font-family: &quot;Cambria&quot;,serif; font-size: 14pt; font-style: italic; }h2.cjk { font-family: &quot;SimSun&quot;,&quot;宋体&quot;; font-size: 14pt; font-style: italic; }h2.ctl { font-family: &quot;Mangal&quot;,serif; font-size: 12pt; font-style: italic; }p { margin-bottom: 0.08in; direction: ltr; color: rgb(0, 0, 0); }p.western { font-family: &quot;Times New Roman&quot;,serif; font-size: 12pt; }p.cjk { font-family: &quot;WenQuanYi Zen Hei&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }p.ctl { font-family: &quot;Lohit Hindi&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }a:visited { color: rgb(128, 0, 128); }a.western:visited {  }a.cjk:visited {  }a.ctl:visited {  }a.western:link {  }a.ctl:link {&lt;/style&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/facebook-provides-information-after-formal-demand-from-the-dutch</id>
+      <title>Facebook provides information after formal demand from the Dutch DPA</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/facebook-provides-information-after-formal-demand-from-the-dutch" />
+      <updated>2015-06-16T00:38:41+02:00</updated>
+      <summary type="html">&lt;p&gt;&lt;style type=&quot;text/css&quot;&gt;p { margin-bottom: 0.08in; direction: ltr; color: rgb(0, 0, 0); }p.western { font-family: &quot;Times New Roman&quot;,serif; font-size: 12pt; }p.cjk { font-family: &quot;WenQuanYi Zen Hei&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }p.ctl { font-family: &quot;Lohit Hindi&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }a:visited { color: rgb(128, 0, 128); }a.western:visited {  }a.cjk:visited {  }a.ctl:visited {  }a.western:link {  }a.ctl:link {  }&lt;/style&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;The Dutch Data Protection Authority (DPA) imposed a conditional fine on Facebook because it had not provided a part of the information that the Dutch DPA has formally demanded as part of its investigation. The investigation focuses on the privacy conditions of the social media company. The Dutch DPA needs the requested information from Facebook, amongst others, to determine its competence and the applicability of the Dutch data protection act. Facebook indicated to provide the further information regarding the set of questions that concerns the competence of the Dutch DPA and the applicability of the Dutch data protection act. The Dutch DPA will assess the information and has therefore temporarily suspended the conditional fine.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-dpa-employment-agencies-violate-the-privacy-of-the-tempora</id>
+      <title>Dutch DPA: employment agencies violate the privacy of the temporary workers</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-dpa-employment-agencies-violate-the-privacy-of-the-tempora" />
+      <updated>2015-09-22T18:00:40+02:00</updated>
+      <summary type="html">&lt;p&gt;The DPA received various signals that employment agencies appeared to be violating the privacy of temporary workers. In a temporary employment relationship the agency acts as the employer of the temporary worker. For these reasons, the DPA decided to carry out an investigation in respect of two large employment agencies regarding their compliance with the Dutch Data Protection Act. According to the DPA, the investigations confirmed that the employment agencies are violating data protection laws on various points, including processing of ID copies, over recording data relating to illness and incapacity to work, handling criminal antecedents and religious symbols, and illegal data retention, etc.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-dpa-presents-its-annual-report-2014-extra-attention-paid-t</id>
+      <title>Dutch DPA presents its annual report 2014: extra attention paid to profiling</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-dpa-presents-its-annual-report-2014-extra-attention-paid-t" />
+      <updated>2015-06-16T01:15:02+02:00</updated>
+      <summary type="html">&lt;p&gt;&lt;style type=&quot;text/css&quot;&gt;p { margin-bottom: 0.08in; direction: ltr; color: rgb(0, 0, 0); }p.western { font-family: &quot;Times New Roman&quot;,serif; font-size: 12pt; }p.cjk { font-family: &quot;WenQuanYi Zen Hei&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }p.ctl { font-family: &quot;Lohit Hindi&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }a:visited { color: rgb(128, 0, 128); }a.western:visited {  }a.cjk:visited {  }a.ctl:visited {  }a.western:link {  }a.ctl:link {  }&lt;/style&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;Jacob Kohnstamm, the Chairman of the Dutch Data Protection Authority (Dutch DPA), presented the annual report 2014 to the Standing Committee on Security and Justice of the House of Representatives. The main themes of this report are data profiling, decentralisation (the delegation of tasks from the central government and the provinces to the municipalities) and the processing of personal data in the area of employment.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/new-rules-on-cookies-introducing-a-lighter-regime-for-cookies-wi</id>
+      <title>New rules on cookies introducing a lighter regime for cookies with little or no effect on privacy</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/new-rules-on-cookies-introducing-a-lighter-regime-for-cookies-wi" />
+      <updated>2015-06-16T00:55:40+02:00</updated>
+      <summary type="html">&lt;p&gt;&lt;style type=&quot;text/css&quot;&gt;p { margin-bottom: 0.08in; direction: ltr; color: rgb(0, 0, 0); }p.western { font-family: &quot;Times New Roman&quot;,serif; font-size: 12pt; }p.cjk { font-family: &quot;WenQuanYi Zen Hei&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }p.ctl { font-family: &quot;Lohit Hindi&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }a:visited { color: rgb(128, 0, 128); }a.western:visited {  }a.cjk:visited {  }a.ctl:visited {  }a.western:link {  }a.ctl:link {  }&lt;/style&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-top: 0.07in; margin-bottom: 0.07in; widows: 2; orphans: 2&quot; lang=&quot;en-GB&quot;&gt;The most significant change is the introduction of a lighter regime for cookies that (a) are used to gather information on the quality and effectiveness of a requested service; and (b) have little or no effect on the privacy of the user of the service. For these cookies (e.g. analytic cookies, affiliate cookies and a/b testing cookies), the standard requirements for cookies (informing the user and obtaining consent) are no longer required. For tracking cookies or similar technologies the duty to inform individuals and request consent remains in effect.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/in-light-of-upcoming-expansion-of-interception-powers-dutch-gove</id>
+      <title>In light of upcoming expansion of interception powers, Dutch government will commission a Privacy Impact Assessment</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/in-light-of-upcoming-expansion-of-interception-powers-dutch-gove" />
+      <updated>2015-06-16T01:01:44+02:00</updated>
+      <summary type="html">&lt;p&gt;&lt;style type=&quot;text/css&quot;&gt;p { margin-bottom: 0.08in; direction: ltr; color: rgb(0, 0, 0); }p.western { font-family: &quot;Times New Roman&quot;,serif; font-size: 12pt; }p.cjk { font-family: &quot;WenQuanYi Zen Hei&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }p.ctl { font-family: &quot;Lohit Hindi&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }a:visited { color: rgb(128, 0, 128); }a.western:visited {  }a.cjk:visited {  }a.ctl:visited {  }a.western:link {  }a.ctl:link {  }&lt;/style&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;On February 10th 2015, at the General Meeting of the Dutch House of Representatives concerning the Dutch Intelligence &amp;amp; Security Act of 2002 (Wiv2002),the Minister of the Interior promised to send a letter that provides information on three topics raised during the debate: the offer of a technical briefing on cable interception, the Privacy Impact Assessment requested by MP Gerard Schouw (D66), and an explanation of the further procedure of revising the Wiv2002. On March 17th 2015, the Minister sent the &lt;font color=&quot;#000080&quot;&gt;&lt;span lang=&quot;zxx&quot;&gt;&lt;u&gt;&lt;a class=&quot;western&quot; href=&quot;http://www.tweedekamer.nl/downloads/document?id=e175e03c-0b2a-40ec-918f-bda1eb08193a&amp;amp;title=Toezegging%20n.a.v.%20het%20AO%20AIVD%20aangelegenheden%2C%20gehouden%20op%2010%20febrauri%202015%2C%20i.v.m.%20de%20herziening%20van%20de%20Wet%20op%20de%20inlichtingen-%20en%20veiligheidsdiensten%202002%20%28Wiv%202002%29.docx&quot;&gt;letter&lt;/a&gt;&lt;/u&gt;&lt;/span&gt;&lt;u&gt; &lt;/u&gt;&lt;/font&gt;he promised. The PIA model, tailored to the legal tasks of the AIVD and MIVD, will be applied to the proposed &lt;font color=&quot;#000080&quot;&gt;&lt;span lang=&quot;zxx&quot;&gt;&lt;u&gt;&lt;a class=&quot;western&quot; href=&quot;https://blog.cyberwar.nl/2014/11/some-details-on-dutch-govt-seeking-bulk-cable-interception-for-intelligence-and-security-services-aivd-and-mivd/&quot;&gt;changes&lt;/a&gt;&lt;/u&gt;&lt;/span&gt;&lt;/font&gt; to the existing Intelligence &amp;amp; Security Act of 2002.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-government-rejects-idea-of-no-spy-agreements-between-europ</id>
+      <title>Dutch government rejects idea of no-spy agreements between European countries</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-government-rejects-idea-of-no-spy-agreements-between-europ" />
+      <updated>2015-06-16T01:10:25+02:00</updated>
+      <summary type="html">&lt;p&gt;&lt;style type=&quot;text/css&quot;&gt;p { margin-bottom: 0.08in; direction: ltr; color: rgb(0, 0, 0); }p.western { font-family: &quot;Times New Roman&quot;,serif; font-size: 12pt; }p.cjk { font-family: &quot;WenQuanYi Zen Hei&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }p.ctl { font-family: &quot;Lohit Hindi&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }a:visited { color: rgb(128, 0, 128); }a.western:visited {  }a.cjk:visited {  }a.ctl:visited {  }a.western:link {  }a.ctl:link {  }&lt;/style&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;&lt;a class=&quot;western&quot; href=&quot;http://assembly.coe.int/nw/xml/AssemblyList/MP-Details-EN.asp?MemberID=5456&quot;&gt;Pieter Omtzigt&lt;/a&gt; of the Parliamentary Assembly of the Council of Europe (PACE) wrote a report on &lt;a class=&quot;western&quot; href=&quot;http://website-pace.net/documents/19838/1085720/20150126-MassSurveillance-EN.pdf/df5aae25-6cfe-450a-92a6-e903af10b7a2&quot;&gt;mass surveillance&lt;/a&gt;, as the basis for a &lt;a class=&quot;western&quot; href=&quot;http://website-pace.net/documents/19838/1085720/20150126-MassSurveillance-EN.pdf/df5aae25-6cfe-450a-92a6-e903af10b7a2&quot;&gt;draft resolution&lt;/a&gt; of the PACE Committee on Legal Affairs and Human Rights. In his response to the to the report, the Dutch Minister of the Interior Plasterk rejected the proposal of a multilateral “Intelligence Codex”, i.e., a no-spy treaty between European countries, citing it is unrealistic and would irresponsibly limit intelligence collection.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/netherlands-data-retention-law-struck-down-for-now</id>
+      <title>Netherlands: Data retention law struck down – for now</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/netherlands-data-retention-law-struck-down-for-now" />
+      <updated>2015-06-16T00:58:15+02:00</updated>
+      <summary type="html">&lt;p&gt;This morning the District court of The Hague decided annulled the data retention law.&lt;/p&gt;&lt;p&gt;The data-retention law requires telecom providers to save communication and location data from everyone in the Netherlands for as long as a year. The law, and the judges agreed, heavily impacts our freedom.&lt;/p&gt;&lt;p&gt;Information also available &lt;a href=&quot;http://www.loc.gov/lawweb/servlet/lloc_news?disp3_l205404345_text&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/new-disclosure-obligations-of-private-data-for-family-companies</id>
+      <title>New disclosure obligations of private data for family companies</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/new-disclosure-obligations-of-private-data-for-family-companies" />
+      <updated>2015-06-21T11:47:22+02:00</updated>
+      <summary type="html">&lt;p&gt;&lt;style type=&quot;text/css&quot;&gt;p { margin-bottom: 0.08in; direction: ltr; color: rgb(0, 0, 0); }p.western { font-family: &quot;Times New Roman&quot;,serif; font-size: 12pt; }p.cjk { font-family: &quot;WenQuanYi Zen Hei&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }p.ctl { font-family: &quot;Lohit Hindi&quot;,&quot;MS Mincho&quot;; font-size: 12pt; }a:visited { color: rgb(128, 0, 128); }a.western:visited {  }a.cjk:visited {  }a.ctl:visited {  }a.western:link {  }a.ctl:link {  }&lt;/style&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;Next year, a new legislation will come into effect which may affect the privacy of shareholders of family businesses. This legislation aims to prevent money laundering and terrorist financing via complex legal business structures. This legislation mainly affects family and other (unlisted) companies with major shareholders.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/members-of-dutch-parliament-want-assurances-over-wider-powers-fo</id>
+      <title>Members of Dutch parliament want assurances over wider powers for security services</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/members-of-dutch-parliament-want-assurances-over-wider-powers-fo" />
+      <updated>2015-03-17T00:09:08+02:00</updated>
+      <summary type="html">&lt;p&gt;MPs wants guarantees from the government that the decision to give the security services wider powers to tap phones and internet traffic will not be abused, website nu.nl reports on Tuesday. Home affairs minister Ronald Plasterk and defence minister Jeanine Hennis are due to present their draft legislation for&lt;/p&gt;&lt;p&gt;MPs wants guarantees from the government that the decision to give the security services wider powers to tap phones and internet traffic will not be abused, website nu.nl reports on Tuesday. Home affairs minister Ronald Plasterk and defence minister Jeanine Hennis are due to present their draft legislation for expanding the security services’ intelligence-gathering powers shortly. Nu.nl questioned various party representatives about their position.&lt;/p&gt;&lt;p&gt;Socialist Party MP Ronald van Raak said the security services could only be given more powers if the influence of US and British secret services was removed. Plasterk, he pointed out, has been unable to say whether Dutch journalists are being spied on by the British security service GCHQ. In addition, ‘the way the NSA has behaved has destroyed trust in the Americans,’ he said. ‘Our security service regulator has also spoken about the breach of trust. Plasterk said he would do something about it, but I have heard nothing.’&lt;/p&gt;&lt;div style=&quot;left: -99999px; position: absolute;&quot;&gt;Socialist Party MP Ronald van Raak said the security services could only be given more powers if the influence of US and British secret services was removed. Plasterk, he pointed out, has been unable to say whether Dutch journalists are being spied on by the British security service GCHQ. In addition, ‘the way the NSA has behaved has destroyed trust in the Americans,’ he said. ‘Our security service regulator has also spoken about the breach of trust. Plasterk said he would do something about it, but I have heard nothing.’&lt;br /&gt;&lt;br /&gt;Read more at DutchNews.nl: MPs want assurances over wider powers for security services &lt;a href=&quot;http://www.dutchnews.nl/news/archives/2015/02/mps-want-assurances-over-wider-powers-for-security-services/&quot;&gt;http://www.dutchnews.nl/news/archives/2015/02/mps-want-assurances-over-wider-powers-for-security-services/&lt;/a&gt;&lt;/div&gt;&lt;div style=&quot;left: -99999px; position: absolute;&quot;&gt;MPs wants guarantees from the government that the decision to give the security services wider powers to tap phones and internet traffic will not be abused, website nu.nl reports on Tuesday. Home affairs minister Ronald Plasterk and defence minister Jeanine Hennis are due to present their draft legislation for expanding the security services’ intelligence-gathering powers shortly. Nu.nl questioned various party representatives about their position.&lt;br /&gt;&lt;br /&gt;Read more at DutchNews.nl: MPs want assurances over wider powers for security services &lt;a href=&quot;http://www.dutchnews.nl/news/archives/2015/02/mps-want-assurances-over-wider-powers-for-security-services/&quot;&gt;http://www.dutchnews.nl/news/archives/2015/02/mps-want-assurances-over-wider-powers-for-security-services/&lt;/a&gt;&lt;/div&gt;&lt;div style=&quot;left: -99999px; position: absolute;&quot;&gt;MPs wants guarantees from the government that the decision to give the security services wider powers to tap phones and internet traffic will not be abused, website nu.nl reports on Tuesday. Home affairs minister Ronald Plasterk and defence minister Jeanine Hennis are due to present their draft legislation for expanding the security services’ intelligence-gathering powers shortly. Nu.nl questioned various party representatives about their position.&lt;br /&gt;&lt;br /&gt;Read more at DutchNews.nl: MPs want assurances over wider powers for security services &lt;a href=&quot;http://www.dutchnews.nl/news/archives/2015/02/mps-want-assurances-over-wider-powers-for-security-services/&quot;&gt;http://www.dutchnews.nl/news/archives/2015/02/mps-want-assurances-over-wider-powers-for-security-services/&lt;/a&gt;&lt;div style=&quot;left: -99999px; position: absolute;&quot;&gt;MPs wants guarantees from the government that the decision to give the security services wider powers to tap phones and internet traffic will not be abused, website nu.nl reports on Tuesday. Home affairs minister Ronald Plasterk and defence minister Jeanine Hennis are due to present their draft legislation for expanding the security services’ intelligence-gathering powers shortly. Nu.nl questioned various party representatives about their position.&lt;br /&gt;&lt;br /&gt;Read more at DutchNews.nl: MPs want assurances over wider powers for security services &lt;a href=&quot;http://www.dutchnews.nl/news/archives/2015/02/mps-want-assurances-over-wider-powers-for-security-services/&quot;&gt;http://www.dutchnews.nl/news/archives/2015/02/mps-want-assurances-over-wider-powers-for-security-services/&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-government-sued-over-data-retention-law</id>
+      <title>Dutch government sued over data retention law</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-government-sued-over-data-retention-law" />
+      <updated>2015-03-16T19:17:42+02:00</updated>
+      <summary type="html">&lt;p&gt;The Dutch data retention law will have its day in court on Feb. 18, when the District Court of the Hague hears a legal challenge to it filed by a broad coalition of organizations. The Dutch government decided in November largely to maintain the national data retention law on the grounds that it “&lt;a href=&quot;http://www.rijksoverheid.nl/nieuws/2014/11/18/kabinet-wijzigt-regels-dataretentie-na-uitspraak-hof.html&quot;&gt;is indispensable for the investigation and prosecution of serious criminal offenses&lt;/a&gt;.” Only a few adjustments to the law were deemed necessary, mainly tightening who has access to the data and under which circumstances. By maintaining the law, the government also ignored the advice given by the Council of State, a constitutional advisory body that concluded that the Dutch data retention law &lt;a href=&quot;http://www.raadvanstate.nl/adviezen/zoeken-in-adviezen/tekst-advies.html?id=11475&quot;&gt;should be withdrawn because it violates fundamental privacy laws&lt;/a&gt;.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/netherlands-right-to-information-in-criminal-proceedings-valid-f</id>
+      <title>Netherlands: right to information in criminal proceedings valid from January 2015</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/netherlands-right-to-information-in-criminal-proceedings-valid-f" />
+      <updated>2015-04-14T21:23:35+02:00</updated>
+      <summary type="html">&lt;p&gt;The EU directive on the right to information in criminal proceedings will be transformed into Dutch law and invalidated in Jan. 2015. Changes are that each suspect arrested at the police station will be issued with a written notice of his/her rights. This is a folder to set out the suspects’ rights, such as the right to a lawyer and an interpreter if the suspect does not have sufficient command of the Dutch language. Suspects that have not been detained but are being questioned in connection with a criminal offence will be informed of their rights verbally. Persons who have been detained in connection with the execution of a European arrest warrant will also be issued with a notice of their rights.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-data-protection-authority-asks-facebook-to-postpone-new-pr</id>
+      <title>Dutch data protection authority asks Facebook to postpone new privacy conditions</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-data-protection-authority-asks-facebook-to-postpone-new-pr" />
+      <updated>2015-04-14T21:25:13+02:00</updated>
+      <summary type="html">&lt;p&gt;Dutch privacy watchdog CBP is launching an investigation into Facebook and is asking the company to postpone its new privacy policy.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-privacy-watchdog-threatens-google-with-15m-fine</id>
+      <title>Dutch privacy watchdog threatens Google with €15m fine</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-privacy-watchdog-threatens-google-with-15m-fine" />
+      <updated>2015-03-17T01:13:22+02:00</updated>
+      <summary type="html">&lt;p&gt;Dutch News reports that the national privacy watchdog CBP is threatening Google with a fine of up to €15m for contravening Dutch privacy legislation. Since 2012, Google has been combining information about users from Gmail, Google maps, YouTube and search results into a single profile. However, the CBP says Google is not informing users properly about its actions or asking them permission. This, the CBP says, contravenes Dutch law. Privacy regulators in Britain, Germany, Spain and Italy are also taking action, the CBP says.&lt;/p&gt;&lt;div style=&quot;left: -99999px; position: absolute;&quot;&gt;Dutch privacy watchdog CBP is threatening internet giant Google with a fine of up to €15m for contravening Dutch privacy legislation. Since 2012, Google has been combining information about users from Gmail, Google maps, YouTube and search results into a single profile. This, broadcaster Nos points out, allows the company to offer more targeted advertising. However, the CBP says Google is not informing users properly about its actions or asking them permission. This, the CBP says, contravenes Dutch law. Privacy regulators in Britain, Germany, Spain and Italy are also taking action, the CBP says.&lt;br /&gt;&lt;br /&gt;Read more at DutchNews.nl: Dutch privacy watchdog threatens Google with €15m fine &lt;a href=&quot;http://www.dutchnews.nl/news/archives/2014/12/dutch-privacy-watchdog-threatens-google-with-e15m-fine.php/&quot;&gt;http://www.dutchnews.nl/news/archives/2014/12/dutch-privacy-watchdog-threatens-google-with-e15m-fine.php/&lt;/a&gt;&lt;div style=&quot;left: -99999px; position: absolute;&quot;&gt;Dutch privacy watchdog CBP is threatening internet giant Google with a fine of up to €15m for contravening Dutch privacy legislation. Since 2012, Google has been combining information about users from Gmail, Google maps, YouTube and search results into a single profile. This, broadcaster Nos points out, allows the company to offer more targeted advertising. However, the CBP says Google is not informing users properly about its actions or asking them permission. This, the CBP says, contravenes Dutch law. Privacy regulators in Britain, Germany, Spain and Italy are also taking action, the CBP says.&lt;br /&gt;&lt;br /&gt;Read more at DutchNews.nl: Dutch privacy watchdog threatens Google with €15m fine &lt;a href=&quot;http://www.dutchnews.nl/news/archives/2014/12/dutch-privacy-watchdog-threatens-google-with-e15m-fine.php/&quot;&gt;http://www.dutchnews.nl/news/archives/2014/12/dutch-privacy-watchdog-threatens-google-with-e15m-fine.php/&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/microchip-implants-in-humans-grow-in-popularity</id>
+      <title>Microchip implants in humans grow in popularity</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/microchip-implants-in-humans-grow-in-popularity" />
+      <updated>2014-12-14T11:50:10+02:00</updated>
+      <summary type="html">&lt;p&gt;Martijn Wismeijer, a Dutch citizen, uses one chip as a savings account for bitcoins – which he says is the safest way to keep them. The chip on his other hand stores the passwords for 900 websites. People who have been chipped can unlock or lock their phones or make payments simply by scanning their hand.&lt;/p&gt;&lt;p&gt;Worldwide some 2,000 people have been ‘chipped’ and their number is growing.&lt;/p&gt;&lt;div style=&quot;left: -99999px; position: absolute;&quot;&gt;Martijn Wismeijer&lt;br /&gt;&lt;br /&gt;Read more at DutchNews.nl: Microchip implants in humans grow in popularity, some 50 Dutch people are ‘chipped’ &lt;a href=&quot;http://www.dutchnews.nl/news/archives/2014/12/microchip-implants-in-humans-grow-in-popularity-some-50-dutch-people-are-chipped.php/&quot;&gt;http://www.dutchnews.nl/news/archives/2014/12/microchip-implants-in-humans-grow-in-popularity-some-50-dutch-people-are-chipped.php/&lt;/a&gt;&lt;/div&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/lawyers-journalists-take-dutch-state-to-court-over-internet-priv</id>
+      <title>Lawyers, journalists take Dutch state to court over Internet privacy</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/lawyers-journalists-take-dutch-state-to-court-over-internet-priv" />
+      <updated>2015-04-14T21:27:29+02:00</updated>
+      <summary type="html">&lt;p&gt;Dutch lawyers, journalists, privacy organizations and publishers are taking legal action against the state to stop telecom firms storing phone and email information via what is described by critics as a ‘snoopers charter’.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-state-sued-over-internet-privacy</id>
+      <title>Dutch state sued over internet privacy</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-state-sued-over-internet-privacy" />
+      <updated>2015-03-17T01:22:13+02:00</updated>
+      <summary type="html">&lt;p&gt;Dutch lawyers, journalists, privacy organisations and publishers are taking legal action against the state to stop telecom firms storing phone and email information. The Dutch government requires telecom firms to keep the information for up to 12 months but the Dutch criminal law association and other groups say this conflicts with EU legislation.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div style=&quot;left: -99999px; position: absolute;&quot;&gt;The Dutch government requires telecom firms to keep the information for up to 12 months but the Dutch criminal law association and other groups say this conflicts with EU legislation.&lt;br /&gt;&lt;br /&gt;Read more at DutchNews.nl: Lawyers, journalists take Dutch state to court over internet privacy &lt;a href=&quot;http://www.dutchnews.nl/news/archives/2014/12/lawyers-journalists-take-dutch-state-to-court-over-internet-privacy.php/&quot;&gt;http://www.dutchnews.nl/news/archives/2014/12/lawyers-journalists-take-dutch-state-to-court-over-internet-privacy.php/&lt;/a&gt;&lt;/div&gt;&lt;div style=&quot;left: -99999px; position: absolute;&quot;&gt;Dutch lawyers, journalists, privacy organisations and publishers are taking legal action against the state to stop telecom firms storing phone and email information via what is described by critics as a ‘snoopers charter’.&lt;br /&gt;&lt;br /&gt;Read more at DutchNews.nl: Lawyers, journalists take Dutch state to court over internet privacy &lt;a href=&quot;http://www.dutchnews.nl/news/archives/2014/12/lawyers-journalists-take-dutch-state-to-court-over-internet-privacy.php/&quot;&gt;http://www.dutchnews.nl/news/archives/2014/12/lawyers-journalists-take-dutch-state-to-court-over-internet-privacy.php/&lt;/a&gt;&lt;/div&gt;&lt;div style=&quot;left: -99999px; position: absolute;&quot;&gt;Dutch lawyers, journalists, privacy organisations and publishers are taking legal action against the state to stop telecom firms storing phone and email information via what is described by critics as a ‘snoopers charter’.&lt;br /&gt;&lt;br /&gt;Read more at DutchNews.nl: Lawyers, journalists take Dutch state to court over internet privacy &lt;a href=&quot;http://www.dutchnews.nl/news/archives/2014/12/lawyers-journalists-take-dutch-state-to-court-over-internet-privacy.php/&quot;&gt;http://www.dutchnews.nl/news/archives/2014/12/lawyers-journalists-take-dutch-state-to-court-over-internet-privacy.php/&lt;/a&gt;&lt;/div&gt;&lt;div style=&quot;left: -99999px; position: absolute;&quot;&gt;Dutch lawyers, journalists, privacy organisations and publishers are taking legal action against the state to stop telecom firms storing phone and email information via what is described by critics as a ‘snoopers charter’.&lt;br /&gt;&lt;br /&gt;Read more at DutchNews.nl: Lawyers, journalists take Dutch state to court over internet privacy &lt;a href=&quot;http://www.dutchnews.nl/news/archives/2014/12/lawyers-journalists-take-dutch-state-to-court-over-internet-privacy.php/&quot;&gt;http://www.dutchnews.nl/news/archives/2014/12/lawyers-journalists-take-dutch-state-to-court-over-internet-privacy.php/&lt;/a&gt;&lt;/div&gt;&lt;p style=&quot;left: -99999px; position: absolute;&quot;&gt;Dutch lawyers, journalists, privacy organisations and publishers are taking legal action against the state to stop telecom firms storing phone and email information via what is described by critics as a ‘snoopers charter’.&lt;br /&gt;&lt;br /&gt;Read more at DutchNews.nl: Lawyers, journalists take Dutch state to court over internet privacy &lt;a href=&quot;http://www.dutchnews.nl/news/archives/2014/12/lawyers-journalists-take-dutch-state-to-court-over-internet-privacy.php/&quot;&gt;http://www.dutchnews.nl/news/archives/2014/12/lawyers-journalists-take-dutch-state-to-court-over-internet-privacy.php/&lt;/a&gt;&lt;/p&gt;&lt;div style=&quot;left: -99999px; position: absolute;&quot;&gt;Dutch lawyers, journalists, privacy organisations and publishers are taking legal action against the state to stop telecom firms storing phone and email information via what is described by critics as a ‘snoopers charter’&lt;br /&gt;&lt;br /&gt;Read more at DutchNews.nl: Lawyers, journalists take Dutch state to court over internet privacy &lt;a href=&quot;http://www.dutchnews.nl/news/archives/2014/12/lawyers-journalists-take-dutch-state-to-court-over-internet-privacy.php/&quot;&gt;http://www.dutchnews.nl/news/archives/2014/12/lawyers-journalists-take-dutch-state-to-court-over-internet-privacy.php/&lt;/a&gt;&lt;/div&gt;&lt;div style=&quot;left: -99999px; position: absolute;&quot;&gt;Dutch lawyers, journalists, privacy organisations and publishers are taking legal action against the state to stop telecom firms storing phone and email information via what is described by critics as a ‘snoopers charter’&lt;br /&gt;&lt;br /&gt;Read more at DutchNews.nl: Lawyers, journalists take Dutch state to court over internet privacy &lt;a href=&quot;http://www.dutchnews.nl/news/archives/2014/12/lawyers-journalists-take-dutch-state-to-court-over-internet-privacy.php/&quot;&gt;http://www.dutchnews.nl/news/archives/2014/12/lawyers-journalists-take-dutch-state-to-court-over-internet-privacy.php/&lt;/a&gt;&lt;/div&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-government-lets-keep-data-retention-mostly-unchanged</id>
+      <title>Dutch government: Let’s keep data retention mostly unchanged</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-government-lets-keep-data-retention-mostly-unchanged" />
+      <updated>2015-03-16T19:17:16+02:00</updated>
+      <summary type="html">&lt;p&gt;On 18 November, the Dutch government finally issued its response to the Court of Justice of the European Union (CJEU) ruling in April 2014 that invalidated the data retention directive 2006/24/EC. Despite all the debate about the legality of data retention practices, the government wants to retain its current data retention legislation.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/netherlands-security-service-does-not-have-to-reveal-phone-and-i</id>
+      <title>Netherlands: Security service does not have to reveal phone and Internet tap numbers</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/netherlands-security-service-does-not-have-to-reveal-phone-and-i" />
+      <updated>2015-04-14T21:13:50+02:00</updated>
+      <summary type="html">&lt;p&gt;Judges from The Hague ruled on Thursday that Dutch security service AIVD does not have to publicize the number of phone and Internet taps it sets up a year.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-polices-anpr-camera-network-cross-the-nation-used-for-stat</id>
+      <title>Dutch police’s ANPR camera network cross the nation used for state tax collection</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-polices-anpr-camera-network-cross-the-nation-used-for-stat" />
+      <updated>2015-04-15T14:13:51+02:00</updated>
+      <summary type="html">&lt;p&gt;Dutch police allows the Dutch IRS to use all Automatic Number Plate Recognition (ANPR) camera footage and data that is “fiscally relevant” to collection of state taxes. Installed throughout the Netherlands, ANPR cameras are a (nearly) nation-wide network of traffic cameras. The camera footage will be used to enforce, among others, the following Dutch tax laws.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-law-enforcement-agencies-may-gain-hacking-power-in-2015</id>
+      <title>Dutch law enforcement agencies may gain hacking power in 2015</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-law-enforcement-agencies-may-gain-hacking-power-in-2015" />
+      <updated>2015-04-15T14:18:37+02:00</updated>
+      <summary type="html">&lt;p&gt;In October 2012, the Dutch government &lt;a href=&quot;https://blog.cyberwar.nl/2012/10/dutch-govt-expresses-intent-to-draft-new-cybercrime-legislation/&quot;&gt;announced&lt;/a&gt; its initiative to grant law enforcement the power to covertly and remotely access “automated works” (computers, phones, etc.), under certain circumstances.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/constitutional-privacy-protection-extended-to-all-forms-of-commu</id>
+      <title>Constitutional privacy protection extended to all forms of communication including emails</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/constitutional-privacy-protection-extended-to-all-forms-of-commu" />
+      <updated>2015-04-15T14:21:11+02:00</updated>
+      <summary type="html">&lt;p&gt;All forms of communication - including digital communication - are to be protected under the Constitution. The privacy of correspondence and the privacy of the telephone and telegraph will be replaced by the privacy of correspondence and telecommunication.&lt;/p&gt;</summary>
+    </entry>
+  </feed>

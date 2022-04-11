@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://observatory.mappingtheinternet.euoverview/Privacy/DE/feed.xml</id>
+  <title>Policy Observatory for Privacy in DE</title>
+  <updated>2018-02-28T13:10:28+02:00</updated>
+  <author><name>Policy Observatory</name></author>
+
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/the-german-parliament-passes-controversial-surveillance-law</id>
+      <title>The German parliament passes controversial surveillance law</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/the-german-parliament-passes-controversial-surveillance-law" />
+      <updated>2017-04-18T05:05:28+02:00</updated>
+      <summary type="html">&lt;p&gt;The German Parliament last week approved a controversial espionage law that theoretically will tighten oversight of the &lt;a href=&quot;http://securityaffairs.co/wordpress/48840/intelligence/bnd-powers.html&quot;&gt;BND intelligence agency&lt;/a&gt;, but that according&amp;nbsp;to privacy advocates will give more power to the authorities.&lt;/p&gt;&lt;p&gt;The experts focused their critic on a controversial clause&amp;nbsp;of the law that allows the BND to eavesdrop communications of foreign organizations and individuals on German soil and abroad that is in transit through a major internet exchange point in Frankfurt.&lt;/p&gt;&lt;p&gt;The Frankfurt-based operator DE-CIX in September filed a suit at a court in Leipzig against the government due to the&amp;nbsp;new law that is considered illegal.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/influential-german-data-commissioner-prohibits-mass-data-sharing</id>
+      <title>German DPA prohibits mass data sharing between WhatsApp and Facebook</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/influential-german-data-commissioner-prohibits-mass-data-sharing" />
+      <updated>2017-04-27T16:58:41+02:00</updated>
+      <summary type="html">&lt;p&gt;The Hamburg Commissioner for Data Protection today announced a decision prohibiting Facebook and Facebook-owned Whatsapp from sharing data from their respective users.&amp;nbsp;The commission did note that it would still be possible to create a process for WhatsApp users to opt into sharing their data declared illegal an automatic massive transfer.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/germany-constitutional-complaint-against-intelligence-agency-bnd</id>
+      <title>Germany: Constitutional complaint against intelligence agency BND</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/germany-constitutional-complaint-against-intelligence-agency-bnd" />
+      <updated>2018-02-07T19:53:49+02:00</updated>
+      <summary type="html">&lt;p&gt;EDRi observer Gesellschaft für Freiheitsrechte (GFF) has filed a constitutional complaint against surveillance by Germany’s foreign intelligence agency, the Bundesnachrichtendienst (BND). A new law that the German Parliament passed in October 2016 allows the BND to spy on foreign journalists.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/whatsapp-security-flaws-could-allow-snoops-to-slide-into-group-c</id>
+      <title>WhatsApp security flaws could allow snoops to slide into group chats</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/whatsapp-security-flaws-could-allow-snoops-to-slide-into-group-c" />
+      <updated>2018-01-13T16:52:41+02:00</updated>
+      <summary type="html">&lt;p&gt;At the Real World Crypto security conference in Zurich, Switzerland, a group of researchers from the Ruhr University Bochum in Germany plan to describe a series of flaws in encrypted messaging apps. While the Signal and Threema flaws they found were relatively harmless, the researchers unearthed far more significant gaps in WhatsApp&#039;s security: They say that anyone who controls WhatsApp&#039;s servers could effortlessly insert new people into an otherwise private group, even without the permission of the administrator who ostensibly controls access to that conversation.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/revocation-of-accreditation-of-journalists-during-g20-deemed-ill</id>
+      <title>Revocation of accreditation of journalists during G20 deemed illegal by DPO of Hamburg</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/revocation-of-accreditation-of-journalists-during-g20-deemed-ill" />
+      <updated>2018-02-28T13:08:05+02:00</updated>
+      <summary type="html">&lt;p&gt;During the G20 summit in Hamburg, the accreditation of 32 journalists have been revoked based inter alia on datasets which have been collected illegally, according to the DPO of Hamburg, Johannes Caspar. According to him, the organizational measures to protect the data from being revealed to unauthorized persons could have been infringed. Therefore, the DPO will further investigate the case.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/draft-anti-terror-law-in-baden-wurttemberg-subject-to-controvers</id>
+      <title>Draft anti-terror law in Baden-Württemberg subject to controversial discussion</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/draft-anti-terror-law-in-baden-wurttemberg-subject-to-controvers" />
+      <updated>2018-02-28T13:10:28+02:00</updated>
+      <summary type="html">&lt;p&gt;The Landtag in Baden-Württemberg was debating a draft anti-terror law which, inter alia, includes additional options to use video surveillance, lawful hacking and electronic tags for persons likely to threaten public security, making it one of the most restrictive anti-terror laws in Germany. The draft law was being criticized by the DPO of Baden-Württemberg: In particular, it remains unclear whether any of these measures would have an actual impact. Therefore, an evaluation clause should be included in the draft law.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/secret-documents-reveal-bnd-attacked-tor-and-advises-not-to-use</id>
+      <title>Secret documents reveal: BND attacked Tor and advises not to use it</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/secret-documents-reveal-bnd-attacked-tor-and-advises-not-to-use" />
+      <updated>2017-09-22T23:12:57+02:00</updated>
+      <summary type="html">&lt;p&gt;The German spy agency BND developed a system to monitor the anonymity network Tor and warned federal agencies that its anonymity is “ineffective”. This is what emerges from a series of secret documents published by the German Netzpolitik blog. The spies handed a prototype of this technology over to the US National Security Agency (NSA), in expectation of a favour in return.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/controversial-testing-of-facial-recognition-software-in-germany</id>
+      <title>Controversial testing of facial recognition software in Germany</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/controversial-testing-of-facial-recognition-software-in-germany" />
+      <updated>2017-10-21T19:34:51+02:00</updated>
+      <summary type="html">&lt;p&gt;At the end of August 2017, German police has been testing a facial recognition software at Südkreuz train station in Berlin. The system was tested on 300 volunteers. The goal was to evaluate the accuracy of the software in recognising and distinguishing them from the crowd – a feature that the police hopes to ultimately use to track and arrest crime and terrorism suspects.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/eu-discusses-future-of-data-retention-indiscriminate-retention-n</id>
+      <title>While EU discusses the future of data retention, Germany is committed to make it mandatory</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/eu-discusses-future-of-data-retention-indiscriminate-retention-n" />
+      <updated>2017-06-12T18:47:09+02:00</updated>
+      <summary type="html">&lt;p&gt;The German government is maintaining its unswerving commitment to make communications data retention obligatory from July 2017 onwards. Meanwhile, different EU level groups and institutions are discussing if or how data retention measures are compatible with EU law.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/german-court-rejects-parents-access-to-dead-teenagers-facebook-a-1</id>
+      <title>German court rejects parents&#039; access to dead teenager&#039;s Facebook account</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/german-court-rejects-parents-access-to-dead-teenagers-facebook-a-1" />
+      <updated>2017-06-12T19:03:04+02:00</updated>
+      <summary type="html">&lt;p&gt;A court in Germany has ruled that the parents of a dead teenage girl have no right to access their daughter&#039;s Facebook account.&amp;nbsp;They had sought access to her chat messages and posts in order to find out whether she had been bullied.&lt;/p&gt;&lt;p&gt;A first court in Berlin had ruled in favour of the family, saying that the contents of the girl&#039;s account could be seen as similar to letters and diaries, which &quot;can be inherited regardless of their content&quot;. But an appeals court has now ruled in favour of Facebook, saying that a contract existed between the girl and the social media company and that it ended with her death.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/number-plate-scanners-and-body-cams-for-officers-of-the-federal</id>
+      <title>Number plate scanners and body cams for officers of the Federal Police Depar</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/number-plate-scanners-and-body-cams-for-officers-of-the-federal" />
+      <updated>2017-08-11T18:04:40+02:00</updated>
+      <summary type="html">&lt;p&gt;The “Bundestag” passed a law allowing the Federal Police Department (Bundespolizei) the usage of body cams for their duty. Body cams shall enhance the security of police officers which are more and more subject of violent assaults. According to the current security situation, the Federal Police Department is also entitled to use number plate scanners in order to enhance the capabilities in cases where a danger is caused by a suspect being on the run.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/german-court-blocks-facebooks-efforts-to-obtain-whatsapp-user-da</id>
+      <title>German court blocks Facebook&#039;s efforts to obtain WhatsApp user data</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/german-court-blocks-facebooks-efforts-to-obtain-whatsapp-user-da" />
+      <updated>2017-05-09T23:39:54+02:00</updated>
+      <summary type="html">&lt;p&gt;A German court has &lt;a target=&quot;_blank&quot; href=&quot;http://justiz.hamburg.de/aktuellepresseerklaerungen/8628054/pressemitteilung/&quot;&gt;upheld&lt;/a&gt; an order requiring Facebook to suspend the import of users&#039; personal data from WhatsApp. Following Facebook&#039;s acquisition of WhatsApp, &lt;a target=&quot;_blank&quot; href=&quot;http://epic.org/privacy/internet/ftc/whatsapp/&quot;&gt;WhatsApp&lt;/a&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://blog.whatsapp.com/10000627/Looking-ahead-for-WhatsApp&quot;&gt;announced&lt;/a&gt; that it would transfer users&#039; personal data to Facebook, violating the company&#039;s &lt;a target=&quot;_blank&quot; href=&quot;https://blog.whatsapp.com/529/Setting-the-record-straight&quot;&gt;privacy&lt;/a&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://blog.whatsapp.com/499/Facebook?&quot;&gt;promises&lt;/a&gt;. A Data Protection Commissioner in Germany &lt;a target=&quot;_blank&quot; href=&quot;https://www.datenschutz-hamburg.de/fileadmin/user_upload/documents/Press_Release_2016-09-27_Adminstrative_Order_Facebook_WhatsApp.pdf&quot;&gt;ordered&lt;/a&gt; Facebook to halt the data transfer. This week a German court refused Facebook&#039;s attempt to block the order, &lt;a target=&quot;_blank&quot; href=&quot;https://www.datenschutz-hamburg.de/news/detail/article/verbot-des-datenaustauschs-durch-den-hmbbfdi-zwischen-whatsapp-und-facebook-vorerst-bestaetigt-k.html&quot;&gt;ruling&lt;/a&gt; that Facebook had no legal basis for the transfer and no effective consent from WhatsApp users. The transfer is also under investigation by the Article 29 Working party, a group of &lt;a target=&quot;_blank&quot; href=&quot;https://www.cnil.fr/sites/default/files/atoms/files/20161027_letter_of_the_chair_of_the_art_29_wp_whatsapp.pdf&quot;&gt;European privacy officials&lt;/a&gt;.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/internet-companies-cant-be-judges-of-free-speech</id>
+      <title>Internet companies can’t be judges of free speech</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/internet-companies-cant-be-judges-of-free-speech" />
+      <updated>2018-01-06T11:16:14+02:00</updated>
+      <summary type="html">&lt;p&gt;For US Internet corporate giants, Germany has become ground zero in the global regulatory battle on how to deal with hate speech on social media platforms. Facebook’s &lt;a href=&quot;https://www.bloomberg.com/politics/articles/2017-04-05/merkel-cabinet-backs-facebook-fines-to-stem-fake-news-in-germany&quot;&gt;concern&lt;/a&gt; that the draft of a new law currently currently making its way through the German legislative process “would force private companies instead of courts to decide which content is illegal in Germany” is spot on.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/adjustments-needed-for-the-draft-law-implementing-the-gdpr</id>
+      <title>Adjustments needed for the draft law implementing the GDPR</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/adjustments-needed-for-the-draft-law-implementing-the-gdpr" />
+      <updated>2017-08-11T17:47:34+02:00</updated>
+      <summary type="html">&lt;p&gt;The draft law implementing the GDPR into the national legal framework was reviewed by the “Bundesrat”. The “Bundesrat” followed the some of the recommendations of the expert committees, in particular with regard to improving the rights of data subjects. Other aspects, such as provisions regarding video surveillance, have not been criticized, though.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/law-for-enhancing-video-surveillance-passed-by-the-bundestag</id>
+      <title>Law for enhancing video surveillance passed by the Bundestag</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/law-for-enhancing-video-surveillance-passed-by-the-bundestag" />
+      <updated>2017-08-11T18:02:10+02:00</updated>
+      <summary type="html">&lt;p&gt;The “Bundestag” passed a law for enhancing video surveillance in public places such as stadiums, night clubs or shopping centres for the purpose of public security and for preventing terrorist attacks. Therefore, the law aims at enhancing the public-private partnership by lowering the safeguards for video surveillance in locations which belong to private institutions. To this extent, DPAs should give the security interests (i.e. the protection of people’s life, health and freedom) more weight compared to the privacy rights of citizens.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/access-to-passport-photos-for-intelligence-agencies</id>
+      <title>Access to passport photos for intelligence agencies</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/access-to-passport-photos-for-intelligence-agencies" />
+      <updated>2017-08-11T18:07:47+02:00</updated>
+      <summary type="html">&lt;p&gt;A draft law granting intelligence agencies access to passport photos was discussed in the “Bundestag”. According to the draft law, the Federal Intelligence Service (Bundesnachrichtendienst), the Federal Office for the Protection of the Constitution, State Offices for the Protection of the Constitution and the Military Counter-Intelligence Service shall be granted access to the passport photos through an automated procedure. In the current version of the respective law, access is only granted to police authorities.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/facebook-ordered-to-stop-collecting-data-on-whatsapp-users-in-ge</id>
+      <title>Facebook ordered to stop collecting data on WhatsApp users in Germany</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/facebook-ordered-to-stop-collecting-data-on-whatsapp-users-in-ge" />
+      <updated>2016-10-01T01:44:49+02:00</updated>
+      <summary type="html">&lt;p&gt;The city of Hamburg’s data protection commissioner ordered Facebook on Tuesday to stop collecting and storing data on WhatsApp users in Germany, the first time a privacy watchdog has waded into the debate. The regulator also called on the social network to delete all information already forwarded from WhatsApp on roughly 35 million German users.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/secret-report-german-intelligence-service-bnd-breaks-the-law</id>
+      <title>Secret Report: German intelligence service BND breaks the law</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/secret-report-german-intelligence-service-bnd-breaks-the-law" />
+      <updated>2016-10-11T15:51:01+02:00</updated>
+      <summary type="html">&lt;p&gt;The German intelligence service BND illegally collected and stored mass surveillance data and has to delete those data immediately. This is one of the conclusions of a classified report of the German Federal Data Protection Commissioner that German digital rights blog Netzpolitik.org published. In her report, the Commissioner criticises serious legal violations and a massive restriction of her supervision authority.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/france-and-germany-fighting-terrorism-by-weakening-encryption-1</id>
+      <title>France and Germany: Fighting terrorism by weakening encryption</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/france-and-germany-fighting-terrorism-by-weakening-encryption-1" />
+      <updated>2016-10-11T15:51:57+02:00</updated>
+      <summary type="html">&lt;p&gt;On 23 August, the French and German Ministers of Interior met in Paris to discuss an initiative that would extend surveillance in Europe and weaken encryption, in the name of the fight against terrorism.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/reply-of-the-federal-government-regarding-a-right-of-action-for</id>
+      <title>Reply of the federal government regarding a right of action for data protection authorities</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/reply-of-the-federal-government-regarding-a-right-of-action-for" />
+      <updated>2016-10-31T18:19:35+02:00</updated>
+      <summary type="html">&lt;p&gt;Following the request of the “Bundesrat” to prepare a law implementing a right of action for data protection authorities, the federal government stated on 15 July 2016 that the federal ministry of the interior is currently working on a draft law adapting the national laws accordingly.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/right-of-action-for-data-protection-authorities-requested-by-bun</id>
+      <title>Right of action for data protection authorities requested by “Bundesrat”</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/right-of-action-for-data-protection-authorities-requested-by-bun" />
+      <updated>2016-10-31T18:16:55+02:00</updated>
+      <summary type="html">&lt;p&gt;On 13 March 2016, the “Bundesrat” submitted a request to the federal government to prepare a law implementing a right of action for data protection authorities. The request was issued by the federated state Hamburg as a consequence of the ECJ’s safe harbor decision.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/german-and-us-intelligence-agencies-resume-collaboration</id>
+      <title>German and US intelligence agencies resume collaboration</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/german-and-us-intelligence-agencies-resume-collaboration" />
+      <updated>2016-01-09T19:50:04+02:00</updated>
+      <summary type="html">&lt;p&gt;Germany&#039;s BND intelligence agency has resumed joint internet surveillance with the U.S. National Security Agency (NSA) after halting collaboration with Washington last year following a row over spying practices, German media reported.&lt;/p&gt;&lt;p&gt;German newspapers on Friday said that collaborations at the Bad Aibling station have been resumed and the NSA is again being supplied with intelligence by the BND. The station is considered central to surveillant crisis countries in the Middle East, such as Afghanistan, Syria, Iraq and Libya, the papers said.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/german-dpas-issue-position-paper-following-safe-harbor-decision</id>
+      <title>German DPAs issue position paper following Safe Harbor decision</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/german-dpas-issue-position-paper-following-safe-harbor-decision" />
+      <updated>2015-11-02T22:17:00+02:00</updated>
+      <summary type="html">&lt;p&gt;In the weeks since the October 6, 2015, Court of Justice of the European Union decision that invalidated the EU-U.S. Safe Harbor framework, companies have been faced with the quandary of establishing legal alternatives for transferring personal data from Europe to the U.S.&lt;/p&gt;&lt;p&gt;Alternative data transfer mechanisms such as standard contractual clauses (SCCs, also called model clauses) and binding corporate rules (BCRs) were implicitly endorsed by the European Commission, but not all European countries, however, have taken this position.&lt;/p&gt;&lt;p&gt;On Monday, October 26, a group of German data protection authorities representing the federal government and 16 German states issued a 14-point position paper (available in German &lt;a href=&quot;https://www.datenschutz.hessen.de/ft-europa.htm#entry4521&quot;&gt;here&lt;/a&gt;) following the CJEU Decision.&lt;/p&gt;&lt;p&gt;Read about the most significant findings &lt;a href=&quot;http://www.lexology.com/library/detail.aspx?g=2a6c64db-c670-40c2-9ce5-9ac524a1d0c8&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/nsa-spying-on-german-intelligence</id>
+      <title>NSA spying on German intelligence</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/nsa-spying-on-german-intelligence" />
+      <updated>2015-09-30T13:44:25+02:00</updated>
+      <summary type="html">&lt;p&gt;Fresh insight shows that the NSA intercepted internal German communications about the kidnapping incident in Yemen. In a list of reports from wiretapped telephone conversations and emails, NSA analysts marked a section of text with the keywords &quot;Germany-Yemen/hostages.&quot; The text read: &quot;German BKA reports Western hostages in Yemen are alive, Yemeni officials delay releasing information, 12 July 2009.&quot;&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/germany-bundesrat-disagrees-with-the-new-gdrp-approach-on-consum</id>
+      <title>Germany - Bundesrat disagrees with the new GDRP approach on consumer protection</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/germany-bundesrat-disagrees-with-the-new-gdrp-approach-on-consum" />
+      <updated>2015-09-22T18:08:27+02:00</updated>
+      <summary type="html">&lt;p&gt;The German Federal Assembly (Bundesrat) has recently issued an opinion criticising the new European Data Protection Regulation for its approach to consumer protection and recommends that the current level EU consumer protection be maintained.&lt;/p&gt;&lt;p&gt;The opinion is available in German &lt;a href=&quot;https://www.bundesrat.de/SharedDocs/drucksachen/2015/0201-0300/290-15%28B%29.pdf?__blob=publicationFile&amp;amp;%3Bv=1&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/german-netzpolitikorg-blog-under-investigation-for-treaso</id>
+      <title>German netzpolitik.org blog under investigation for treason</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/german-netzpolitikorg-blog-under-investigation-for-treaso" />
+      <updated>2015-08-21T20:51:58+02:00</updated>
+      <summary type="html">&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;span&gt;German domestic security service has pressed &lt;a href=&quot;https://www.techdirt.com/articles/20150713/06544431624/germanys-leading-digital-rights-blog-netzpolitikorg-accused-treason-after-leaking-bulk-surveillance-plans.shtmlcharges%20of%20treason&quot;&gt;charges of treason&lt;/a&gt; against Netzpolitik.org, one of Germany’s most influential digital rights blogs, as a result of two articles it posted earlier this year. The articles reported on leaked documents regarding the German government’s mass surveillance plans. The German criminal code considers the leaking of state secrets to a foreign power, or to anyone else with the intention of damaging the Republic, to be &lt;/span&gt;&lt;a href=&quot;http://www.iuscomp.org/gla/statutes/StGB.htm#BII&quot;&gt;&lt;span&gt;&lt;span&gt;treason&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span&gt;. &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/facebook-is-ordered-by-hamburg-privacy-authority-to-allow-pseudo</id>
+      <title>Facebook is ordered by Hamburg privacy authority to allow pseudonyms</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/facebook-is-ordered-by-hamburg-privacy-authority-to-allow-pseudo" />
+      <updated>2015-08-20T02:26:59+02:00</updated>
+      <summary type="html">&lt;p&gt;Facebook was ordered by Hamburg privacy authority to allow users to have accounts under pseudonyms on the social network. The company rejects such a decision and argues that the Irish regulator has jurisdiction over its compliance with EU privacy law. The Irish privacy regulator in &lt;a target=&quot;_blank&quot; href=&quot;http://www.dataprotection.ie/documents/facebook%20report/final%20report/report.pdf&quot;&gt;2011&lt;/a&gt; audited Facebook and found its name policy was in line with Irish law.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/ongoing-debate-on-governmental-plans-for-new-data-retention-law</id>
+      <title>Ongoing debate on governmental plans for new data retention law</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/ongoing-debate-on-governmental-plans-for-new-data-retention-law" />
+      <updated>2015-09-04T18:02:48+02:00</updated>
+      <summary type="html">&lt;p&gt;The federal government plans to enact a law on data retention. According to the draft law, information on the user’s phone calls, text messages and Internet connection shall be recorded and saved for ten weeks. Information that allows to track a person shall be saved for four weeks. The draft law is criticised by opposition, business representatives and privacy groups.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/german-intelligence-agency-halts-internet-monitoring-for-nsa-new</id>
+      <title>German intelligence agency halts Internet monitoring for NSA</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/german-intelligence-agency-halts-internet-monitoring-for-nsa-new" />
+      <updated>2015-05-08T12:44:05+02:00</updated>
+      <summary type="html">&lt;p&gt;According to press reports, the German intelligence service BND ended Internet monitoring for the US National Security Agency at the start of the week. Only information from faxes and phone calls is still being sent on.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/it-security-law-expert-consultation-in-the-german-bundestag</id>
+      <title>IT-Security Law: Expert consultation in the German Bundestag</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/it-security-law-expert-consultation-in-the-german-bundestag" />
+      <updated>2015-09-04T18:05:55+02:00</updated>
+      <summary type="html">&lt;p&gt;On 20th April 2015, there was a consultation regarding the draft of the IT-security law in the German Bundestag. The majority of the experts stated that the plan to establish a law enhancing the IT-security would be desirable. The draft law especially aims at protecting critical infrastructures by requiring operators of critical infrastructure to fulfil certain minimum standards for IT-security. However, the draft law was also criticised: The Chaos Computer Club (CCC) stated that the law would only aim at avoiding attacks against enterprises, but not against private persons. The Federal Association of the German Industry further criticised that the term “critical infrastructures” is not defined in the draft law so that it would be unclear what exactly needs to be protected.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/piracy-on-the-internet-government-action-plan</id>
+      <title>Piracy on the Internet - Government action plan</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/piracy-on-the-internet-government-action-plan" />
+      <updated>2015-04-18T13:04:37+02:00</updated>
+      <summary type="html">&lt;p&gt;On 11 March 2015, Minister for Culture and Communication Fleur Pellerin presented the Government’s strategy for combating piracy on the Internet to the Council of Ministers. Apart from the graduated response applied to illegal downloading implemented by France’s high authority for the distribution of works and the protection of rights on the Internet (Haute Autorité pour la Diffusion des Oeuvres et la Protection des Droits sur Internet - HADOPI), which remains in place, the action plan is also aimed at streaming sites and referencing, which benefit from pirated works. Three series of measures were presented.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/germany-imposes-data-collection-limits-on-google</id>
+      <title>Germany imposes data collection limits on Google</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/germany-imposes-data-collection-limits-on-google" />
+      <updated>2015-04-14T18:34:34+02:00</updated>
+      <summary type="html">&lt;p&gt;German officials on Wednesday ordered Google to limit the collection of personal data, in the US Internet giant&#039;s latest run-in with authorities in the European Union.&lt;/p&gt;&lt;p&gt;The data protection office in the city of Hamburg said it had told Google to make &quot;the necessary changes&quot; so that the use of its German users&#039; data is on a &quot;permissible legal basis&quot;.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/google-ordered-by-german-authority-to-change-privacy-practices</id>
+      <title>Google ordered by German authority to change privacy practices</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/google-ordered-by-german-authority-to-change-privacy-practices" />
+      <updated>2015-04-09T01:02:10+02:00</updated>
+      <summary type="html">&lt;article&gt;&lt;section&gt;&lt;p&gt;A German data protection authority has ordered Google to change how it handles users’ private data in the country by the end of the year.&lt;/p&gt;&lt;p&gt;The administrative order was issued on Wednesday by the Hamburg Commissioner for Data Protection and Freedom of Information, Johannes Caspar, in order to force Google to comply with German data protection law and give users more control over their data.&lt;/p&gt;&lt;p&gt;Google started combining existing policies for various services when it changed its privacy policy in 2012, despite the concerns of European Union data protection authorities. At least six authorities then &lt;a href=&quot;http://www.computerworld.com/article/2496107/data-privacy/six-european-privacy-regulators-launch-investigations-of-google-s-privacy-policy.html&quot;&gt;started formal investigations into the new policy&lt;/a&gt;; Hamburg was one of those six.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/section&gt;&lt;/article&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/german-intelligence-agency-bnd-is-tapping-internet-exchange-poin</id>
+      <title>German intelligence agency is tapping Internet Exchange Point</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/german-intelligence-agency-bnd-is-tapping-internet-exchange-poin" />
+      <updated>2015-04-01T11:09:14+02:00</updated>
+      <summary type="html">&lt;p&gt;Since 2009 the German intelligence agency BND accesses traffic from the internet node DE-CIX in Frankfurt am Main – as a follow-up to „Operation Eikonal“ at the German company „Deutsche Telekom“. This was stated by the operator of DE-CIX at the NSA investigation comittee of the German Bundestag. The German Chancellery intervened several times and prevented the G-10 commission and the Federal Network Agency (Bundesnetzagentur) to investigate this interception operation.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/merkel-wants-more-eu-data-surveillance-powers</id>
+      <title>Merkel wants more EU data surveillance powers</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/merkel-wants-more-eu-data-surveillance-powers" />
+      <updated>2015-03-16T19:15:54+02:00</updated>
+      <summary type="html">&lt;p&gt;German Chancellor Angela Merkel has backed increased data surveillance to fight terrorism. “We will not let them divide us,” she told German parliament Thursday, calling for new EU rules soon on data retention. Her statement contrasts with the anger in Germany over US mass surveillance of internet traffic.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/merkel-and-hollande-talk-about-avoiding-us-servers</id>
+      <title>Merkel and Hollande talk about avoiding US servers</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/merkel-and-hollande-talk-about-avoiding-us-servers" />
+      <updated>2014-11-15T15:31:20+02:00</updated>
+      <summary type="html">&lt;p&gt;We will talk with France about how we can maintain a high level of data protection. Above all, we will discuss which European providers we have who offer security to citizens. So that you don&#039;t have to cross the Atlantic with emails and other things, but also can build up communication networks within Europe, said Merkel.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/german-spy-agency-wants-to-build-social-media-monitor</id>
+      <title>German spy agency wants to build real time social media monitor</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/german-spy-agency-wants-to-build-social-media-monitor" />
+      <updated>2014-11-15T15:25:36+02:00</updated>
+      <summary type="html">&lt;p itemprop=&quot;description&quot;&gt;The prototype real time social media monitor will only look at publicly available data though, according to the plans. Germany&#039;s foreign intelligence agency reportedly wants to spend €300 million (about US$375 million) in the next five years on technology that would let it spy in real time on social networks outside of Germany, and decrypt and monitor encrypted Internet traffic.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/berlins-digital-exiles-where-tech-activists-go-to-escape-the-nsa</id>
+      <title>Berlins digital exiles: where tech activists go to escape the NSA</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/berlins-digital-exiles-where-tech-activists-go-to-escape-the-nsa" />
+      <updated>2014-11-10T12:22:56+02:00</updated>
+      <summary type="html">&lt;p&gt;With its strict privacy laws, Germany is the refuge of choice for those hounded by the security services. Carole Cadwalladr visits Berlin to meet Laura Poitras, the director of Edward Snowden film Citizenfour, and a growing community of surveillance refuseniks.&lt;/p&gt;&lt;p&gt;Germany has some of the strongest laws in the world when it comes to surveillance and privacy. It is illegal for the foreign security service, the BND, to spy on its own citizens. But, the NSA has had bases in Germany since 1945 and there are no laws that govern its behaviour.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.theguardian.com/world/2014/nov/09/berlins-digital-exiles-tech-activists-escape-nsa&quot;&gt;Continue reading...&lt;/a&gt;&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/germany-exports-surveillance-technologies-to-human-rights-violat</id>
+      <title>Germany exports surveillance technologies to human rights violators</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/germany-exports-surveillance-technologies-to-human-rights-violat" />
+      <updated>2014-09-22T14:00:34+02:00</updated>
+      <summary type="html">&lt;p&gt;Germany is a major exporter of surveillance technologies and over the past decade the German government has provided German companies with licenses to export surveillance technologies to at least 25 countries, many of which have long histories of human rights abuse. The British-German company Gamma International, is the maker of the FinFisher surveillance toolset. Users typically end up downloading FinFisher unknowingly, just by clicking on a seemingly innocent link or email attachment. Once installed, the tool allows the user to access all stored information and monitor even encrypted communication. Keystrokes can be logged, Skype conversations recorded and cameras and microphones can be activated remotely.&lt;/p&gt;</summary>
+    </entry>
+  </feed>

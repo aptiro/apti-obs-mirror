@@ -1,0 +1,404 @@
+<!doctype html>
+<html lang="en-GB">
+    	<head>
+        <link rel="icon" href="../theme/default/img/favicon.ico"/>
+		<meta charset="utf-8"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+        <title>
+                            Policy Observatory
+                    </title>
+
+		<meta name="viewport" content="width=device-width, maximum-scale=1.0"/>
+		<meta name="generator" content="Bolt">
+		<link rel="canonical" href="encryption.html">
+                            
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+
+        <link rel="stylesheet" href="../theme/default/css/site.css"/>
+
+		<!--[if lt IE 9]>
+			<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+
+		
+		
+
+	</head>
+
+	<body>
+	<div class="container">
+
+        <div class="row">
+            <div class="col-sm-9">
+                <h1>
+                    <a href="../index.html">
+                        <img src="../theme/default/img/MAPPING_logo.png" alt="Policy Observatory"> Policy Observatory
+                    </a>
+                </h1>
+            </div>
+            <div class="col-sm-3">
+                <form method="get" action="https://observatory.mappingtheinternet.eu/search" id="searchform" enctype="text/plain" class="form-inline">
+                    <div class="form-group">
+                        <input type="text" name="search" value="" placeholder="Search for ..." class="form-control">
+                        <button class="btn btn-success">
+                            <span class="glyphicon glyphicon-search"></span>
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="row">
+
+
+            <div class="col-sm-12">
+                <nav class="navbar navbar-default">
+    <ul class="nav navbar-nav">
+                <li class="first">
+            <a href="../index.html">
+                Home
+                            </a>
+                    </li>
+                <li class="">
+            <a href="../page/about.html">
+                About
+                            </a>
+                    </li>
+                <li class="">
+            <a href="../overview.html">
+                News &amp; Views
+                            </a>
+                    </li>
+                <li class="">
+            <a href="../suggest/index.html">
+                Suggest
+                            </a>
+                    </li>
+                        <li class=" pull-right">
+            <a href="../page/startups.html">
+                Startups
+                            </a>
+                    </li>   
+                <li class="dropdown pull-right">
+            <a href="../page/privacy.html">
+                Privacy
+                                    <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu" role="menu">
+                                            <li class="">
+                            <a href="../page/data-retention-legislation-europe.html">
+                                Data retention legislation in Europe
+                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="../page/personal-data-breaches-policies-europe.html">
+                                Personal data breaches
+                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="../page/personal-data-security-policies-europe.html">
+                                Personal data security
+                            </a>
+                        </li>
+                                    </ul>
+                    </li>   
+                <li class="dropdown pull-right">
+            <a href="../page/ipr.html">
+                Intellectual Property Rights
+                                    <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu" role="menu">
+                                            <li class="">
+                            <a href="../page/basic-intellectual-property-legislation-europe.html">
+                                Basic Intellectual Property Legislation
+                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="../page/eu-orphan-works-directive-implementation.html">
+                                EU Orphan Works directive implementation
+                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="../page/internet-blocking-ipr-enforcement.html">
+                                Internet blocking or filtering following IPRs enforcement measures
+                            </a>
+                        </li>
+                                    </ul>
+                    </li>   
+                <li class="dropdown pull-right">
+            <a href="../page/ig.html">
+                Internet Governance
+                                    <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu" role="menu">
+                                            <li class="">
+                            <a href="../page/european-cctlds-management-table.html">
+                                European ccTLDds Management
+                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="../page/european-actors-internet-governance.html">
+                                European actors in Internet Governance discussions
+                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="../page/net-neutrality-policies.html">
+                                Net Neutrality Policies
+                            </a>
+                        </li>
+                                    </ul>
+                    </li>   
+           
+        <li class="pull-right no-link">
+            Policy Overview:
+        </li>
+    </ul>
+</nav>
+                <header id="page-header" role="navigation">
+                </header>
+            </div>
+
+        </div>
+
+        
+
+
+
+
+        <div class="row content">
+                            <div class="col-sm-12">
+            
+
+    <div class="panel panel-default">
+    <div class="panel-heading">
+        <span class="blueArrow"></span>
+        Software vendors need to stop trying to intercept customers’ encrypted traffic
+    </div>
+    <div class="panel-date">
+        Thu 26 Feb 2015, 04:20
+    </div>
+    <div class="panel-body">
+        <div><div><div><p>Over the past week many more details have emerged about the <a href="https://www.eff.org/deeplinks/2015/02/further-evidence-lenovo-breaking-https-security-its-laptops">HTTPS-breaking Superfish software that Lenovo pre-installed on its laptops for several months</a>.</p><p>Unfortunately, the security implications have gone from bad to worse the more we’ve learned. For instance, researchers have determined that the software library Superfish uses to intercept traffic—developed by a company known as Komodia—<a href="https://m.facebook.com/notes/protect-the-graph/windows-ssl-interception-gone-wild/1570074729899339">is present in</a> <a href="https://gist.github.com/Wack0/17c56b77a90073be81d3">more than a dozen</a> <a href="http://marcrogers.org/2015/02/19/will-the-madness-never-end-komodia-ssl-certificates-are-everywhere/">other software products</a>, including parental control software and (supposed) privacy-enhancing/ad-blocking software. All of these products have the same vulnerability that Superfish does: anyone with a little technical know-how could intercept and modify your otherwise secure HTTPS traffic.</p></div></div></div>
+    </div>
+    <div class="panel-footer">
+        <div class="read-more">
+            <a href="../item/dear-software-vendors-please-stop-trying-to-intercept-your-custo.html">
+                Read more &raquo;
+            </a>
+        </div>
+        
+        <div class="taguri">
+                        <p>
+                Tags:
+                                    <a href="Internet.html">Internet</a>,                                     <a href="Superfish&#32;software.html">Superfish software</a>,                                     <a href="encryption.html">encryption</a>,                                     <a href="traffic&#32;interception.html">traffic interception</a>                            </p>
+                    </div>
+    </div>
+</div>
+    <div class="panel panel-default">
+    <div class="panel-heading">
+        <span class="blueArrow"></span>
+        China says new cybersurveillance proposal follows US security practices
+    </div>
+    <div class="panel-date">
+        Wed 4 Mar 2015, 14:20
+    </div>
+    <div class="panel-body">
+        <article><section><p>On Wednesday, China’s parliamentary spokeswoman tried to play down the impact the proposed legislation might have on foreign tech businesses, in the face of U.S. fears it would require companies to hand over sensitive data to the country’s government.</p><p>The anti-terror law is still under review, but if passed, it would require tech companies to give encryption keys to the authorities, and create “back doors” into their systems for government surveillance access.</p><p>&nbsp;</p></section></article>
+    </div>
+    <div class="panel-footer">
+        <div class="read-more">
+            <a href="../item/china-says-new-cybersurveillance-proposal-follows-us-security-pr.html">
+                Read more &raquo;
+            </a>
+        </div>
+        
+        <div class="taguri">
+                        <p>
+                Tags:
+                                    <a href="fundamental&#32;rights.html">fundamental rights</a>,                                     <a href="back&#32;doors.html">back doors</a>,                                     <a href="tech&#32;companies.html">tech companies</a>,                                     <a href="anti-terrorism.html">anti-terrorism</a>,                                     <a href="privacy.html">privacy</a>,                                     <a href="cybersecurity.html">cybersecurity</a>,                                     <a href="surveillance.html">surveillance</a>,                                     <a href="encryption.html">encryption</a>                            </p>
+                    </div>
+    </div>
+</div>
+    <div class="panel panel-default">
+    <div class="panel-heading">
+        <span class="blueArrow"></span>
+        UN report: encryption and anonymity online are necessary to advance human rights
+    </div>
+    <div class="panel-date">
+        Fri 29 May 2015, 18:40
+    </div>
+    <div class="panel-body">
+        <p>Encryption and anonymity on the internet are necessary for the advancement of human rights, according to a new report from the United Nations. The report from David Kaye, a UN special rapporteur on freedom of expression, asserts that privacy is a “gateway for freedom of opinion and expression.”</p><p>The report is available for download <a href="http://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session29/Documents/A.HRC.29.32_AEV.doc">here</a>.</p>
+    </div>
+    <div class="panel-footer">
+        <div class="read-more">
+            <a href="../item/un-report-encryption-and-anonymity-online-are-necessary-to-advan-3.html">
+                Read more &raquo;
+            </a>
+        </div>
+        
+        <div class="taguri">
+                        <p>
+                Tags:
+                                    <a href="Internet.html">Internet</a>,                                     <a href="digital&#32;age.html">digital age</a>,                                     <a href="anonymity.html">anonymity</a>,                                     <a href="freedom&#32;of&#32;expression.html">freedom of expression</a>,                                     <a href="report.html">report</a>,                                     <a href="UN.html">UN</a>,                                     <a href="encryption.html">encryption</a>,                                     <a href="human&#32;rights.html">human rights</a>,                                     <a href="privacy.html">privacy</a>                            </p>
+                    </div>
+    </div>
+</div>
+    <div class="panel panel-default">
+    <div class="panel-heading">
+        <span class="blueArrow"></span>
+        US to require HTTPS for all government websites
+    </div>
+    <div class="panel-date">
+        Tue 9 Jun 2015, 04:40
+    </div>
+    <div class="panel-body">
+        <article><section><p>The US government is mandating the use of the HTTPS security protocol on all of its public websites and web services by the end of 2016.<a href="https://https.cio.gov/"> Deploying HTTPS</a> will authenticate communications with government websites and encrypt the data sent back and forth, which will help protect against snooping and imposter websites.</p><p>&nbsp;</p><p>&nbsp;</p></section></article>
+    </div>
+    <div class="panel-footer">
+        <div class="read-more">
+            <a href="../item/us-to-require-https-for-all-government-websites.html">
+                Read more &raquo;
+            </a>
+        </div>
+        
+        <div class="taguri">
+                        <p>
+                Tags:
+                                    <a href="encryption.html">encryption</a>,                                     <a href="protocol.html">protocol</a>,                                     <a href="US.html">US</a>,                                     <a href="security.html">security</a>,                                     <a href="HTTPS.html">HTTPS</a>                            </p>
+                    </div>
+    </div>
+</div>
+    <div class="panel panel-default">
+    <div class="panel-heading">
+        <span class="blueArrow"></span>
+        UN expert launches robust defence of online anonymity and encryption
+    </div>
+    <div class="panel-date">
+        Thu 28 May 2015, 20:25
+    </div>
+    <div class="panel-body">
+        <p>Today, David Kaye, the UN Special Rapporteur on freedom of expression published a major report on encryption and anonymity in the digital age. ARTICLE 19 welcomes the report as a major step forward for the protection of the rights to free expression and privacy online. We call on governments to review their laws, policies and practices and bring them in line with the Special Rapporteur’s recommendations as soon as possible.</p>
+    </div>
+    <div class="panel-footer">
+        <div class="read-more">
+            <a href="../item/un-expert-launches-robust-defence-of-online-anonymity-and-encryp.html">
+                Read more &raquo;
+            </a>
+        </div>
+        
+        <div class="taguri">
+                        <p>
+                Tags:
+                                    <a href="Internet&#32;policy.html">Internet policy</a>,                                     <a href="recommendations.html">recommendations</a>,                                     <a href="UN.html">UN</a>,                                     <a href="report.html">report</a>,                                     <a href="privacy.html">privacy</a>,                                     <a href="freedom&#32;of&#32;expression.html">freedom of expression</a>,                                     <a href="anonymity.html">anonymity</a>,                                     <a href="encryption.html">encryption</a>,                                     <a href="digital&#32;age.html">digital age</a>                            </p>
+                    </div>
+    </div>
+</div>
+    <div class="panel panel-default">
+    <div class="panel-heading">
+        <span class="blueArrow"></span>
+        New UK law would give government access to encrypted Internet messaging apps
+    </div>
+    <div class="panel-date">
+        Wed 1 Jul 2015, 17:29
+    </div>
+    <div class="panel-body">
+        <p>The new Investigatory Powers Bill, announced in yesterday's Queen's Speech, will include legislation to force Internet companies to give access to encrypted conversations of suspected terrorists and criminals. According to The Telegraph: "New laws will require WhatsApp, which is owned by Facebook, Snapchat and other popular apps to hand messages sent by their users to MI5, MI6 and GCHQ about suspects under investigation."</p>
+    </div>
+    <div class="panel-footer">
+        <div class="read-more">
+            <a href="../item/new-uk-law-would-give-government-access-to-encrypted-internet-me.html">
+                Read more &raquo;
+            </a>
+        </div>
+        
+        <div class="taguri">
+                        <p>
+                Tags:
+                                    <a href="technology.html">technology</a>,                                     <a href="apps.html">apps</a>,                                     <a href="Investigatory&#32;Powers&#32;Bill.html">Investigatory Powers Bill</a>,                                     <a href="intelligence&#32;agencies.html">intelligence agencies</a>,                                     <a href="encryption.html">encryption</a>,                                     <a href="UK.html">UK</a>,                                     <a href="surveillance.html">surveillance</a>,                                     <a href="privacy.html">privacy</a>,                                     <a href="Internet.html">Internet</a>,                                     <a href="data&#32;protection.html">data protection</a>                            </p>
+                    </div>
+    </div>
+</div>
+
+
+    
+    
+    
+<div class="pagination pagination-centered ">
+  <ul class="pagination">
+    <li><a href="encryption%3Fpage=2.html">&lsaquo; </a></li>
+
+
+    <li ><a href="encryption%3Fpage=1.html">1</a></li>
+    <li ><a href="encryption%3Fpage=2.html">2</a></li>
+    <li class='active'><a href="encryption%3Fpage=3.html">3</a></li>
+    <li ><a href="encryption%3Fpage=4.html">4</a></li>
+    <li ><a href="encryption%3Fpage=5.html">5</a></li>
+    <li ><a href="encryption%3Fpage=6.html">6</a></li>
+
+
+    <li><a href="encryption%3Fpage=4.html">&rsaquo;</a></li>
+  </ul>
+</div>
+
+
+
+            </div>
+                                </div> 
+        <footer id="page-footer" role="navigation">
+        </footer>   
+    <footer class="clearfix">
+        
+<div class="row">
+    <div class="col-sm-6 flag-footer">
+        <div class="flag-footer flag">
+            <img src="../theme/default/img/flag.jpg" alt="European Union" />
+        </div>
+        <div class="flag-footer text">
+            <p><strong>The <a href="http://mappingtheinternet.eu">MAPPING project</a> has received funding<br>from the European Union’s<br>Seventh Framework Programme for research,<br>technological development and demonstration<br>under grant agreement no 612345.</strong></p>
+        </div>
+    </div>
+    <div class="col-sm-2">
+
+    </div>
+    <div class="col-sm-4">
+        <div class="social-links">
+
+                <a class="by" href="http://creativecommons.org/licenses/by/4.0/" target="_blank">
+                    <img src="../theme/default/img/by.png" alt="CCBY">
+                </a>
+        </div>
+        <ul class="nav nav-pills">
+                                        </ul>
+    </div>
+</div>
+    </footer>    
+    </div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+
+<!-- Piwik -->
+<script type="text/javascript">
+ var _paq = _paq || [];
+ _paq.push(['trackPageView']);
+ _paq.push(['enableLinkTracking']);
+ (function() {
+   var u=(("https:" == document.location.protocol) ? "https" :
+"http") + "://apti.ro/trafic/";
+   _paq.push(['setTrackerUrl', u+'piwik.php']);
+   _paq.push(['setSiteId', 6]);
+   var d=document, g=d.createElement('script'),
+s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+   g.defer=true; g.async=true; g.src=u+'piwik.js';
+s.parentNode.insertBefore(g,s);
+ })();
+</script>
+<noscript><p><img src="http://apti.ro/trafic/piwik.php?idsite=6"
+style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+</body>
+	
+</html>
+

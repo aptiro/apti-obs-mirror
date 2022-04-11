@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://observatory.mappingtheinternet.euoverview/IPR/PT/feed.xml</id>
+  <title>Policy Observatory for IPR in PT</title>
+  <updated>2017-04-17T20:58:09+02:00</updated>
+  <author><name>Policy Observatory</name></author>
+
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/portugal-passes-bill-to-restrict-use-of-drm-grant-circumvention</id>
+      <title>Portugal passes bill to restrict use of DRM</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/portugal-passes-bill-to-restrict-use-of-drm-grant-circumvention" />
+      <updated>2017-04-17T20:58:09+02:00</updated>
+      <summary type="html">&lt;p&gt;Portugal&#039;s parliament has approved a bill that will restrict how Digital Rights Management is applied to some creative works, including those in the public domain or funded by public entities. Even when DRM is present, citizens will be able to circumvent the protection for education and private copying purposes.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/portugal-becomes-8th-contracting-state-to-formally-ratify-the-un</id>
+      <title>Portugal becomes 8th contracting state to formally ratify the Unified Patent Court Agreement</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/portugal-becomes-8th-contracting-state-to-formally-ratify-the-un" />
+      <updated>2015-09-22T18:04:02+02:00</updated>
+      <summary type="html">&lt;p&gt;On 28 August 2015, Portugal lodged its instrument of ratification of the Unified Patent Court Agreement (UPCA), making it the eighth contracting state to do so (joining Austria, Belgium, Denmark, France, Luxembourg, Malta and Sweden - see details &lt;a href=&quot;https://www.consilium.europa.eu/en/documents-publications/agreements-conventions/agreement/?aid=2013001&quot;&gt;here&lt;/a&gt;). 13 of the 25 contracting states are required to ratify before the UPCA and thus the new Unified Patent Court system and unitary patent can come into effect, but these must include France (already ratified), the UK and Germany.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/voluntary-agreement-against-copyright-infringements</id>
+      <title>Voluntary agreement against copyright infringements</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/voluntary-agreement-against-copyright-infringements" />
+      <updated>2015-08-22T20:15:34+02:00</updated>
+      <summary type="html">&lt;p&gt;On 30 July 2015, copyright and related rights-holders associations, the General Inspection of Cultural Activities (IGAC), the Portuguese Consumer Directorate-General, the Portuguese Association of Telecom Operators, the organisation responsible for .pt domain registrations DNS.PT, the anti-“piracy” group MAPINET, advertising associations, and (unidentified) consumer associations agreed on a Memorandum of Understanding aimed at protecting copyright and related rights online.&lt;/p&gt;&lt;p&gt;This “self-regulatory” agreement, facilitated and promoted by the Portuguese government, is expected to enter into force around mid-August 2015. Although it has not been published, parts of its content have been reported by Portuguese news sites and the parties involved.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/the-pirate-bay-will-be-blocked-in-portugal</id>
+      <title>The Pirate Bay will be blocked in Portugal</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/the-pirate-bay-will-be-blocked-in-portugal" />
+      <updated>2015-03-02T13:09:23+02:00</updated>
+      <summary type="html">&lt;div class=&quot;entry-summary&quot;&gt;&lt;p class=&quot;entry-lead&quot;&gt;Following a European trend, the Portuguese Intellectual Property Court has ordered local ISPs to block access to The Pirate Bay. The legal action, brought by copyright holders, resulted in an injunction which orders the ISPs to block access to the popular torrent site and dozens of its proxies.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Courts all around the world have ordered Internet providers to block subscriber access to the torrent site and the list continues to expand. Last month French ISPs started blocking The Pirate Bay and last week the Intellectual Property Court in Portugal ordered a similar measure against local Internet providers.&lt;/p&gt;</summary>
+    </entry>
+  </feed>

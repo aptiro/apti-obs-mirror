@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://observatory.mappingtheinternet.euoverview/IPR/AT/feed.xml</id>
+  <title>Policy Observatory for IPR in AT</title>
+  <updated>2018-02-09T20:10:44+02:00</updated>
+  <author><name>Policy Observatory</name></author>
+
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/austria-refers-facebook-hate-speech-case-to-the-cjeu</id>
+      <title>Austria refers Facebook ‘Hate-Speech’ case to the CJEU</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/austria-refers-facebook-hate-speech-case-to-the-cjeu" />
+      <updated>2018-02-09T20:10:44+02:00</updated>
+      <summary type="html">&lt;div dir=&quot;ltr&quot; trbidi=&quot;on&quot;&gt;&lt;div&gt;The supreme court of Austria (‘Oberste Gerichtshof’ - OGH, case number 6Ob116/17b) has &lt;a href=&quot;https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20171025_OGH0002_0060OB00116_17B0000_000/JJT_20171025_OGH0002_0060OB00116_17B0000_000.pdf&quot;&gt;asked&lt;/a&gt; the Court of Justice of the European Union for clarification on the scope of Art. 15 (I) of the &lt;a href=&quot;http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32000L0031&amp;amp;from=en&quot;&gt;E-Commerce Directive&lt;/a&gt; and the host provider privilege.&lt;/div&gt;&lt;/div&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/france-13-million-in-damages-awarded-for-linking-to-downloadable</id>
+      <title>France: 13 million in damages awarded for linking to downloadable copyright works</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/france-13-million-in-damages-awarded-for-linking-to-downloadable" />
+      <updated>2017-08-01T00:00:23+02:00</updated>
+      <summary type="html">&lt;div&gt;Now that the CJEU has confirmed that linking to protected content &lt;i&gt;could&lt;/i&gt; lead to infringing copyright comes in some cases (see see &lt;a href=&quot;http://curia.europa.eu/juris/document/document.jsf?docid=147847&amp;amp;doclang=EN&quot;&gt;here&lt;/a&gt;,&amp;nbsp;&lt;a href=&quot;http://ipkitten.blogspot.co.uk/2016/04/ag-wathelet-linking-to-unlicensed.html&quot;&gt;here&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;http://ipkitten.blogspot.co.uk/search?q=svensson&quot;&gt;here&lt;/a&gt;), a slew of practical questions arise. Not least, how much do copyright owners lose from online platforms hosting links to unauthorized copies of their works uploaded by third parties? In other words, how much damages should be awarded by courts, and on what basis?&lt;/div&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/google-news-spain-closes-after-aede-tax-approval</id>
+      <title>Google News Spain closes after AEDE tax approval</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/google-news-spain-closes-after-aede-tax-approval" />
+      <updated>2014-12-18T11:42:55+02:00</updated>
+      <summary type="html">&lt;p&gt;Google News Spain is oficially closed after the government announced the AEDE tax which requires a mandatory and inalienable payment to digital media companies in the cases of content aggregation, even for non-profit. From now on, after accessing news.google.es or entering the service from Spain, a text appears explaining why it&#039;s inaccesible.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/multiple-ownership-of-patents</id>
+      <title>Multiple Ownership of Patents</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/multiple-ownership-of-patents" />
+      <updated>2014-11-20T12:28:14+02:00</updated>
+      <summary type="html">&lt;p&gt;Austrian Patent Law accepts the ownership of patents (and other IP rights) of several natural and/or legal persons as co-owners principally but refers to general civil law all questions concerning the rights of the individual owners with regard to the other co-owners.&lt;/p&gt;</summary>
+    </entry>
+  </feed>

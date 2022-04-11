@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://observatory.mappingtheinternet.euoverview/IPR/SE/feed.xml</id>
+  <title>Policy Observatory for IPR in SE</title>
+  <updated>2018-02-23T16:25:17+02:00</updated>
+  <author><name>Policy Observatory</name></author>
+
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/crazy-swedish-bill-makes-sharing-tv-as-bad-a-crime-as-manslaught</id>
+      <title>Crazy Swedish bill makes sharing TV as bad a &quot;crime&quot; as manslaughter</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/crazy-swedish-bill-makes-sharing-tv-as-bad-a-crime-as-manslaught" />
+      <updated>2018-02-23T16:25:17+02:00</updated>
+      <summary type="html">&lt;p&gt;A new bill has been tabled in Sweden that triples the maximum prison sentence for infringement of the copyright monopoly, such as using ordinary BitTorrent, to a maximum of six years in prison.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/swedish-supreme-court-confirms-that-domain-names-constitute-prop</id>
+      <title>Swedish Supreme Court confirms that domain names constitute property that can be seized by the state</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/swedish-supreme-court-confirms-that-domain-names-constitute-prop" />
+      <updated>2018-01-13T17:00:45+02:00</updated>
+      <summary type="html">&lt;p&gt;In April 2015, prosecutor Fredrik Ingblad directed claims against Fredrik Neij (one of the creators of The Pirate Bay) in an effort to disrupt the operation of The Pirate Bay website in Sweden. Ingblad also filed a complaint against Punkt SE (IIS), the organisation responsible for Sweden’s .se top-level domain. Mr Ingblad argued that the domains ‘ThePirateBay.se’ and ‘PirateBay.se’ were used as “tools” to aid and abet copyright infringement and should therefore be seized by the Swedish state.&lt;/p&gt;&lt;p&gt;In December 2017 the Swedish Supreme Court confirmed that the two domains can indeed be seized by the state.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/founder-of-fan-made-subtitle-site-convicted-for-copyright-infrin</id>
+      <title>Founder of fan-made subtitle site convicted for copyright Infringement</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/founder-of-fan-made-subtitle-site-convicted-for-copyright-infrin" />
+      <updated>2017-09-19T16:09:25+02:00</updated>
+      <summary type="html">&lt;p&gt;A 32 year old Swedish national has been convicted to a $27.000 fine and a year of probation after he was found guilty of copyright infringement for distributing subtitles of copyrighted movies.&amp;nbsp;&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/court-rules-that-pirate-bay-domains-must-be-seized</id>
+      <title>Court rules that Pirate Bay domains must be seized</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/court-rules-that-pirate-bay-domains-must-be-seized" />
+      <updated>2015-05-19T21:22:39+02:00</updated>
+      <summary type="html">&lt;p&gt;The Stockholm District Court decided to order the seizure of two key domains owned by The Pirate Bay, however it is unlikely that the site&#039;s operation will disappear completely. The motivation for the seizure is that The Pirate Bay is an illegal operation, thus its domains are tools used by the site to infringe copyright.&lt;/p&gt;&lt;p&gt;While two of the domains (ThePirateBay.se - the site’s main domain and PirateBay.se - a lesser used alternative) will be will be put out of action, the District Court dismissed the prosecution’s case against&amp;nbsp;Punkt.se, the organization responsible for Sweden’s top level .SE domain.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/the-pirate-bay-taken-down-by-swedish-police</id>
+      <title>The Pirate Bay taken down by Swedish police</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/the-pirate-bay-taken-down-by-swedish-police" />
+      <updated>2015-03-17T01:16:29+02:00</updated>
+      <summary type="html">&lt;p&gt;The Guardian report that the Swedish police have raided and seized computer and server equipment in Stockholm, taking the notorious piracy site the &lt;a data-link-name=&quot;auto-linked-tag&quot; data-component=&quot;auto-linked-tag&quot; class=&quot;u-underline&quot; href=&quot;http://www.theguardian.com/technology/pirate-bay&quot;&gt;Pirate Bay&lt;/a&gt; offline. The site, which has survived the arrest and jailing of its founders, several attempts to remove it from the internet and blockade by internet service providers (ISPs) in the UK and internationally, has been unavailable for more than 24 hours.&lt;/p&gt;</summary>
+    </entry>
+  </feed>

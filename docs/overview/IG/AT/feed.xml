@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://observatory.mappingtheinternet.euoverview/IG/AT/feed.xml</id>
+  <title>Policy Observatory for IG in AT</title>
+  <updated>2017-05-09T23:01:07+02:00</updated>
+  <author><name>Policy Observatory</name></author>
+
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/new-law-speeds-up-recall-of-spying-hardware</id>
+      <title>New law speeds up recall of &quot;spying hardware&quot;</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/new-law-speeds-up-recall-of-spying-hardware" />
+      <updated>2017-05-09T23:01:07+02:00</updated>
+      <summary type="html">&lt;p&gt;The Funkanlagen-Marktüberwachungsgesetz is meant to speed up recall of &quot;spying hardware&quot; from the market. Selling such hardware, once found dangerous and outlawed, is illegal but the new law adds public announcements and mandatory information of government agencies to existing regulations.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/austrian-parliament-urges-action-against-illegal-surveillance</id>
+      <title>Austrian parliament urges action against illegal surveillance</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/austrian-parliament-urges-action-against-illegal-surveillance" />
+      <updated>2015-03-21T13:00:32+02:00</updated>
+      <summary type="html">&lt;p&gt;The Austrian Parliament adopted a resolution, urging the government to act against illegal surveillance by secret services like NSA or GCHQ. Besides that, the Parliament wants to see further steps on an European level to create technological independence for Europe in information and communication technologies.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/austrian-internet-users-to-pay-for-intransparent-web-blocking-sc</id>
+      <title>Austrian Internet users to pay for intransparent web blocking scheme</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/austrian-internet-users-to-pay-for-intransparent-web-blocking-sc" />
+      <updated>2015-03-12T09:20:25+02:00</updated>
+      <summary type="html">&lt;p&gt;On 27 March 2014, the European Court of Justice (CJEU) ruled that national jurisdiction can order an injunction against an Internet Service Provider (ISP) requiring it to restrict its customers from accessing a website that is placing protected content online without the consent of the rights holder.&lt;/p&gt;&lt;p&gt;Four Austrian providers have continued to fight the details regarding the implementation of the decision before Austria’s supreme court (Oberster Gerichtshof, OGH) – without much success.&lt;/p&gt;&lt;p&gt;This week, Austrian online news platform “Futurezone” obtained a classified copy of the latest decision of the OGH. The document shows that the national supreme court decided to impose the costs of Austria’s blocking scheme on the operators – meaning that these will, in the end, be passed on to the customers.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/austria-to-speed-up-tenders-for-high-speed-internet-infrastruct</id>
+      <title>Austria to speed up tenders for high-speed internet infrastructure</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/austria-to-speed-up-tenders-for-high-speed-internet-infrastruct" />
+      <updated>2014-11-20T12:08:57+02:00</updated>
+      <summary type="html">&lt;p&gt;&lt;span id=&quot;articleText&quot;&gt;In July, Austria had said it would offer tenders for an initial 200 million euros as part of plans to invest some of the proceeds from a controversial mobile frequency auction, which is now the subject of a court case, into broadband infrastructure.&lt;/span&gt;&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/web-blocking-in-austria-law-with-the-law-taken-out</id>
+      <title>Web-blocking in Austria – law with the law taken out</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/web-blocking-in-austria-law-with-the-law-taken-out" />
+      <updated>2014-11-20T12:13:49+02:00</updated>
+      <summary type="html">&lt;p&gt;Following the European Court of Justice ruling on the UPC Telekabel v Constantin in April 2014, Austrian internet access providers have started “blocking” several websites. In the case in question, the Court established that an injunction may be imposed on an internet access provider (ISP) “prohibiting an internet service provider from allowing” its customers access to a website “when that injunction does not specify the measures which that access provider must take”.&lt;/p&gt;</summary>
+    </entry>
+  </feed>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://observatory.mappingtheinternet.euoverview/Privacy/DK/feed.xml</id>
+  <title>Policy Observatory for Privacy in DK</title>
+  <updated>2017-10-21T15:21:02+02:00</updated>
+  <author><name>Policy Observatory</name></author>
+
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/denmark-targeted-anpr-data-retention-turned-into-mass-surveillan</id>
+      <title>Denmark: Targeted ANPR data retention turned into mass surveillance</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/denmark-targeted-anpr-data-retention-turned-into-mass-surveillan" />
+      <updated>2017-09-22T23:20:51+02:00</updated>
+      <summary type="html">&lt;p&gt;Since mid 2016, Denmark has a nationwide automatic number plate recognition (ANPR) system with stationary cameras at 24 locations and mobile cameras mounted on 48 police cars. The ANPR system is currently being integrated with POL-INTEL, the new Danish system for intelligence-led policing (predictive policing), which is supplied by Palantir Technologies. Expansion of the ANPR system with more cameras can be expected in the coming years.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/dutch-senate-votes-in-favour-of-dragnet-surveillance-powers</id>
+      <title>Dutch Senate votes in favour of dragnet surveillance powers</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/dutch-senate-votes-in-favour-of-dragnet-surveillance-powers" />
+      <updated>2017-07-31T22:37:03+02:00</updated>
+      <summary type="html">&lt;p&gt;On 11 July 2017, the Dutch Senate passed the bill for the new Intelligence and Security Services Act. With the Senate vote, a years-long political battle has come to an end: the secret services have been given dragnet surveillance powers.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/oversight-board-report-illegal-surveillance-of-danish-citizens</id>
+      <title>Oversight Board report: Illegal surveillance of Danish citizens</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/oversight-board-report-illegal-surveillance-of-danish-citizens" />
+      <updated>2017-07-31T22:46:34+02:00</updated>
+      <summary type="html">&lt;p&gt;The annual report from the Danish Intelligence Oversight Board (TET) was published on 7 July 2017. Under Danish law, TET is tasked with overseeing the data collection and data processing practices of the Danish Security and Intelligence Service (PET) and the Danish Defence and Intelligence Service (DDIS). Both intelligence services operate mostly outside European Union (EU) law because of the national security exemption in the EU Treaties.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/denmark-allows-massive-retention-of-location-data-for-mobile-int</id>
+      <title>Denmark allows massive retention of location data for mobile internet</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/denmark-allows-massive-retention-of-location-data-for-mobile-int" />
+      <updated>2017-10-21T15:21:02+02:00</updated>
+      <summary type="html">&lt;p&gt;On 24 May 2017, the Danish telecom regulator announced its decision concluding that the retention of location data for mobile internet usage is lawful. With the decision, the regulator allowed for massive data retention, which seriously undermines citizens’ right to privacy, since it means they can be tracked at all times and the data is being stored.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/denmark-weakening-the-oversight-of-intelligence-services</id>
+      <title>Denmark: Weakening the oversight of intelligence services</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/denmark-weakening-the-oversight-of-intelligence-services" />
+      <updated>2017-06-05T14:01:25+02:00</updated>
+      <summary type="html">&lt;p&gt;A draft law to amend the data protection provisions of the law on the oversight of the Danish Security and Intelligence Service (PET) was submitted for public consultation in September 2016. In their consultation responses, several NGOs including EDRi member IT-Pol Denmark, as well as the Danish Intelligence Oversight Board (TET) criticised the proposal.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/danish-anti-terror-proposal-expands-surveillance</id>
+      <title>Danish anti-terror proposal expands surveillance</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/danish-anti-terror-proposal-expands-surveillance" />
+      <updated>2015-03-12T08:54:28+02:00</updated>
+      <summary type="html">&lt;p&gt;On 19 February 2015, the Danish government presented a 12-point plan for new anti-terror initiatives in response to the Charlie Hebdo attack in Paris and the shooting incident in Copenhagen on 14 February. This will become the third major anti-terror package since 2001 to be presented to the Danish Parliament.&lt;/p&gt;&lt;p&gt;The focus of the plan is on surveillance measures in Denmark and abroad through increased budgets, new IT-systems, and new powers for the intelligence services, the Danish Defence Intelligence Services (DDIS) and the Danish Security and Intelligence Service (PET), which is part of the Danish police.&lt;/p&gt;&lt;p&gt;The most controversial element is targeted surveillance and eavesdropping of communications of Danish citizens abroad. This will be done by DDIS without a court order.&lt;/p&gt;</summary>
+    </entry>
+  </feed>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://observatory.mappingtheinternet.euoverview/IG/RO/feed.xml</id>
+  <title>Policy Observatory for IG in RO</title>
+  <updated>2017-08-11T17:38:59+02:00</updated>
+  <author><name>Policy Observatory</name></author>
+
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/domain-name-holders-personal-data-remain-protected</id>
+      <title>Domain name holders&#039; personal data remain protected</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/domain-name-holders-personal-data-remain-protected" />
+      <updated>2017-06-28T20:08:56+02:00</updated>
+      <summary type="html">&lt;p&gt;The Chamber of Deputies of the Romanian Parliament has rejected the project for domain name owners personal data to be publicly made available without their consent. The project has been rejected after the Romanian Government showed that this would violate European Union norms.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/ancom-investigheaz-ofertele-de-tip-zero-rating</id>
+      <title>Romanian National Authority for Regulation in Communications is investigating zero-rating offers</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/ancom-investigheaz-ofertele-de-tip-zero-rating" />
+      <updated>2017-08-11T17:38:59+02:00</updated>
+      <summary type="html">&lt;div&gt;&lt;div&gt;&lt;div rel=&quot;og:image rdfs:seeAlso&quot; resource=&quot;http://apti.ro/sites/default/files/styles/large/public/field/image/zero-rating.png?itok=NqnDpnXM&quot;&gt;The National Authority for Management and Regulation in Communications (ANCOM) is investigating offers such as Vodafone Pass which include a preferential treatment for some apps. Traffic on Facebook Messenger, Instagram, Whatsapp, Pinterest, Twitter, Tumblr, Viber is unlimited, while on other apps it is being charged.&lt;/div&gt;&lt;div rel=&quot;og:image rdfs:seeAlso&quot; resource=&quot;http://apti.ro/sites/default/files/styles/large/public/field/image/zero-rating.png?itok=NqnDpnXM&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div rel=&quot;og:image rdfs:seeAlso&quot; resource=&quot;http://apti.ro/sites/default/files/styles/large/public/field/image/zero-rating.png?itok=NqnDpnXM&quot;&gt;Romanian digital rights NGO, ApTI filed a complaint to ANCOM which responded that it extended its investigation to other possible zero rating offers.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/brain-drain-nici-site-urile-porno-nu-vor-s-rman-in-romania</id>
+      <title>FOIA requests for blocking porn websites in Romania</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/brain-drain-nici-site-urile-porno-nu-vor-s-rman-in-romania" />
+      <updated>2017-07-30T00:24:35+02:00</updated>
+      <summary type="html">&lt;div&gt;&lt;div property=&quot;content:encoded&quot;&gt;&lt;div rel=&quot;og:image rdfs:seeAlso&quot; resource=&quot;http://apti.ro/sites/default/files/styles/large/public/field/image/cabluri-retea.jpg?itok=lZw59jlr&quot;&gt;ApTI submitted access to information requests to the&amp;nbsp;National Authority for Management and Regulation in Communications (ANCOM) with regard to the application of Law 196/2003 on combating pornography. Porn website owners have to charge a tax per minute view and declare the income to the fiscal authorities. From ANCOM&#039;s response, most of the requests sent to ISPs date from 2011. As ANCOM&#039;s response indicates a confusion between ISP blocking and requesting Internet hosting services to delete the website, ApTI submitted another FOIA request to clarify this aspect.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/human-rights-court-romania-breached-journalists-right-to-freedom</id>
+      <title>Human Rights Court: Romania breached journalist&#039;s right to freedom of expression</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/human-rights-court-romania-breached-journalists-right-to-freedom" />
+      <updated>2017-06-28T19:10:57+02:00</updated>
+      <summary type="html">&lt;p&gt;The European Court of Human Rights found on June 27 that Romania breached the rights to freedom of expression of Constanta-based journalist Feri Predescu. A local court had condemned the journalist for the statements she made about the Constanta mayor Radu Mazare in a 2006 TV show. With this decision, the ECHR has asked Romania to pay the journalist EUR 14,000 in material damages and EUR 4,500 in moral damages.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/romanian-mep-initiates-public-policy-innovation-lab-within-ec</id>
+      <title>Romanian MEP initiates Public Policy Innovation Lab within EC</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/romanian-mep-initiates-public-policy-innovation-lab-within-ec" />
+      <updated>2016-10-25T14:26:35+02:00</updated>
+      <summary type="html">&lt;p&gt;Romanian MEP Siegfried Muresan has initiated a Laboratory of Innovation for Public Policy, which aims to facilitate the exchange of experience among EU countries in terms of public policies that are more efficient and have lower costs. The laboratory, which is a pilot project, has been inaugurated by the European Commission this week.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/romania-mass-surveillance-project-disguised-as-egovernment-1</id>
+      <title>Romania: Mass surveillance project disguised as eGovernment</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/romania-mass-surveillance-project-disguised-as-egovernment-1" />
+      <updated>2016-10-11T15:52:21+02:00</updated>
+      <summary type="html">&lt;p&gt;The Romanian Intelligence Services (SRI) has been recently granted EU funds for the project “SII Analytics” to acquire software and hardware for “consolidating and assuring eGovernment interoperability between public information systems”. The project seems to aim at gathering all major state owned databases (e.g. citizens and company registry, health card data, fiscal data) in SRI’s playground. The data would be joined into one large system, through which other public institutions would potentially have unlimited and unwarranted access to the personal data collected.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/open-letter-for-sound-cybersecurity-regulation</id>
+      <title>Romania: Open letter for sound cybersecurity regulation</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/open-letter-for-sound-cybersecurity-regulation" />
+      <updated>2016-02-15T11:56:07+02:00</updated>
+      <summary type="html">&lt;div&gt;&lt;div&gt;&lt;div property=&quot;content:encoded&quot;&gt;&lt;p&gt;A &lt;a target=&quot;_blank&quot; href=&quot;http://www.mcsi.ro/Transparenta-decizionala/Proiecte-2016/Securitatea-cibernetica/lege-securitate-cibernetica&quot;&gt;new cybersecurity law proposal&lt;/a&gt; has been published and ApTI - the Association for Technology and Internet launched an open letter describing 5 sound principles which should be taken into consideration by the proposal.&lt;/p&gt;&lt;p&gt;This proposal follows last year&#039;s Constitutional Court&#039;s decision against the cybersecurity law. Unfortunately, the new version does not bring sufficient changes. More information is available in English on &lt;a href=&quot;https://edri.org/romanian-cybersecurity-law-reloaded/&quot;&gt;EDRI&#039;s website&lt;/a&gt; and in Romanian on &lt;a href=&quot;http://privacy.apti.ro/2016/02/09/scrisoare-deschisa-pentru-o-securitate-informatica-sanatoasa-5-principii-pentru-un-act-normativ-coerent/&quot;&gt;privacy.apti.ro&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/internet-blocking-powers-granted-to-the-national-gambling-office</id>
+      <title>Internet blocking powers granted to the National Gambling Office</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/internet-blocking-powers-granted-to-the-national-gambling-office" />
+      <updated>2015-08-21T21:14:55+02:00</updated>
+      <summary type="html">&lt;div&gt;&lt;div&gt;&lt;div property=&quot;content:encoded&quot;&gt;&lt;p&gt;On 12 June 2015 a new law was passed which allows the National Gambling Office to ask Internet Service Providers to block unauthorized online gambling sites. On 24 June, the National Gambling Office adopted a decision not only forcing Internet Service Providers to block access to certain websites, but also requesting them to redirect the users to a certain website hosted by the Special Telecommunications Service.&lt;/p&gt;&lt;p&gt;Last year, ApTI together with 5 other NGOs warned that the measures proposed by the National Gambling Office are violating fundamental rights. The message was resent today explaining that the effects of such blocking measures are technically inefficient and have a serious impact on human rights.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/romania-introduces-idn</id>
+      <title>Romania introduces IDN</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/romania-introduces-idn" />
+      <updated>2015-06-09T00:35:19+02:00</updated>
+      <summary type="html">&lt;p&gt;The main domain registrar in Romania, ROTLD, which is under the management of the country’s National Research and Development Institute in IT (ICI Bucharest), announced in the beginning of June it was updating its software, allowing diacritical marks in domain names.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/the-romanian-cybersecurity-law-is-declared-unconstitutional</id>
+      <title>The Romanian cybersecurity law is declared unconstitutional</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/the-romanian-cybersecurity-law-is-declared-unconstitutional" />
+      <updated>2015-03-16T19:23:24+02:00</updated>
+      <summary type="html">&lt;div&gt;&lt;div&gt;&lt;div property=&quot;content:encoded&quot;&gt;&lt;p&gt;With majority of votes, the Romanian Constitutional Court decided that the cybersecurity law is unconstitutional. This represents the 4th attempt to pass laws violating human rights under the pretext of fighting terrorism.&lt;/p&gt;&lt;p&gt;The Association for Technology and Internet (ApTI) together with 14 other NGOs filed an &lt;a href=&quot;http://privacy.apti.ro/2015/01/19/interventie-ccr-pentru-sustinerea-neconstitutionalitatii-legii-securitatii-cibernetice/&quot;&gt;amicus curiae to support the unconstitutionality claims&lt;/a&gt; (in Romanian). In its &lt;a href=&quot;http://www.ccr.ro/noutati/COMUNICAT-DE-PRES-141&quot;&gt;press release&lt;/a&gt; (in Romanian), the Constitutional Court mentioned not only the articles which were brought into attention by the civil society groups, but also showed that putting the National Security Agency (SRI) in charge of cybersecurity is also unconstitutional.&lt;/p&gt;&lt;p&gt;Background information about the cybersecurity law is available &lt;a href=&quot;https://edri.org/romanian-cybersecurity-law-sent-to-the-constitutional-court/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/romanian-cybersecurity-law-sent-to-the-constitutional-court</id>
+      <title>Romanian cybersecurity law sent to the Constitutional Court</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/romanian-cybersecurity-law-sent-to-the-constitutional-court" />
+      <updated>2015-03-16T23:47:35+02:00</updated>
+      <summary type="html">&lt;p&gt;A new law on cybersecurity, previously reported in the EDRi-gram, was adopted by the Romanian Parliament at the end of 2014. The law gives the Romanian Intelligence Agency (SRI) access to any computer data owned by private companies, without a court order. The law was sent to the Constitutional Court for analysis and it will be judged on 21 January 2015.&lt;/p&gt;&lt;p&gt;Moreover,&amp;nbsp; the situation regarding surveillance practices in Romania seems to have recently become even blurrier. Even as the events in France were unfolding, a special inter-institutional group formed by several ministries and SRI had already met a couple of times to decide about a revival of the surveillance laws declared unconstitutional in 2014 – the data retention law and the mandatory registration of telephony prepaid cards.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/romania-consults-on-disabled-persons-telecom-access</id>
+      <title>Romania consults on disabled persons&#039; telecom access</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/romania-consults-on-disabled-persons-telecom-access" />
+      <updated>2014-11-25T11:40:51+02:00</updated>
+      <summary type="html">&lt;p&gt;Romania&#039;s telecommunications authority ANCOM submitted to public consultation a set of measures intended to ensure the disabled persons’ access to telephony and internet access services adapted to their specific needs and in conditions equivalent to those available for most users. The draft decision provides that end-users with sight, speech and/or hearing disabilities will be able to benefit from internet and telephony offers with included consumption units optimised for their special needs. The interested persons are invited to send their comments and suggestions by 17 December.&amp;nbsp;&lt;/p&gt;</summary>
+    </entry>
+  </feed>

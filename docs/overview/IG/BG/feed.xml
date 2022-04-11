@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://observatory.mappingtheinternet.euoverview/IG/BG/feed.xml</id>
+  <title>Policy Observatory for IG in BG</title>
+  <updated>2018-02-28T12:11:22+02:00</updated>
+  <author><name>Policy Observatory</name></author>
+
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/bulgaria-adopted-open-source-law</id>
+      <title>Bulgaria adopted open source law</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/bulgaria-adopted-open-source-law" />
+      <updated>2016-07-25T10:33:08+02:00</updated>
+      <summary type="html">&lt;p&gt;The Bulgarian parliament has voted and approved a series of amendments to the Electronic Governance Act that require all software written for the government to be open-source and to be developed as such in a public repository.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/the-process-of-drafting-a-cybersecurity-act-commenced</id>
+      <title>The process of drafting a Cybersecurity Act commenced</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/the-process-of-drafting-a-cybersecurity-act-commenced" />
+      <updated>2018-02-28T12:07:26+02:00</updated>
+      <summary type="html">&lt;p&gt;A consultation procedure was initiated on 15 February 2018 to discuss and gather ideas and recommendations for the future Cybersecurity Act, which will aim to transpose the NIS Directive concerning measures for a high common level of security of network and information systems across the Union.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/cybersecurity-policies-will-be-part-of-the-updated-strategy-for</id>
+      <title>Cybersecurity policies will be part of the updated Strategy for National Security</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/cybersecurity-policies-will-be-part-of-the-updated-strategy-for" />
+      <updated>2018-02-28T12:11:22+02:00</updated>
+      <summary type="html">&lt;p&gt;Bulgarian government adopted a draft version for updated Strategy for National Security where cybersecurity policies are included. The aim of these policies are related to the development of national capacity for cybersecurity and cyber security resilience for combating hybrid wars.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/bulgaria-improves-access-to-open-government-data-and-its-re-use-1</id>
+      <title>Bulgaria improves access to Open Government Data and its re-use with further legislative measures</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/bulgaria-improves-access-to-open-government-data-and-its-re-use-1" />
+      <updated>2016-10-24T13:30:59+02:00</updated>
+      <summary type="html">&lt;p&gt;Recent amendments to the Access to Public Information Act (APIA), led to the establishment of an Open Data Portal, where all public-sector organizations are obliged to store information. Access to the Open Data Portal is free. On the 20th June 2016, the Council of Ministers adopted an Ordinance on the Standards for the Re-use of Public-sector Information and its Open Format Publishing, which obliges all state officials to stick to specific open data format requirements and to publish machine-readable data in the Open Data Portal.&lt;/p&gt;&lt;p&gt;More information is available &lt;a href=&quot;https://joinup.ec.europa.eu/community/opengov/case/bulgarian-open-data-portal-driven-council-ministers-and-civil-society&quot;&gt;here&lt;/a&gt; in English.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/bulgaria-adopted-cybersecurity-strategy</id>
+      <title>Bulgaria adopted cybersecurity strategy</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/bulgaria-adopted-cybersecurity-strategy" />
+      <updated>2017-06-12T23:26:23+02:00</updated>
+      <summary type="html">&lt;p&gt;The Council of Ministers of the Republic of Bulgaria has adopted a Cybersecurity strategy named “Cyber Sustainable Bulgaria 2020”. The implementation of the strategy is divided into three stages. The strategy envisages the designation of Council on Cyber Sustainability, identification of national coordinator for cybersecurity to the Council of Ministers, and a model for the functioning of the national cybersecurity system.&amp;nbsp;&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/bg-cyrillic-domain-registration-officially-started</id>
+      <title>.бг Cyrillic domain registration officially started</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/bg-cyrillic-domain-registration-officially-started" />
+      <updated>2017-06-12T23:24:36+02:00</updated>
+      <summary type="html">&lt;p&gt;New hosting institution exists in Bulgaria, since ICANN approved the Cyrillic domain .бг as an internationalised country code top-level domain. Имена.бг JSC is the company&amp;nbsp; currently acting as a registrar. Имена.бг is the first domain in Cyrillic in Bulgaria. As of 08.02.2017 an initial sunrise three-month stage for domain name request and registration has started with the purpose of prioritising the registrations of organisations on the grounds of their name (company, registered trade mark). Registering .бг domain itself will be possible after May 8th, 2017. In order to avoid any misuse of state institution’s names, the Ministry of Transport, Information and Communications has elaborated a list of names to be locked for public institutions.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/bulgaria-improves-access-to-open-government-data-and-its-re-use</id>
+      <title>Bulgaria improves access to Open Government Data and its re-use with further legislative measures</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/bulgaria-improves-access-to-open-government-data-and-its-re-use" />
+      <updated>2016-10-15T16:03:35+02:00</updated>
+      <summary type="html">&lt;p&gt;Recent amendments to the Access to Public Information Act (APIA), led to the establishment of an Open Data Portal, where all public-sector organizations are obliged to store information. The access to the Open Data Portal is free. On the 20th June 2016, the Council of Ministers adopted an Ordinance on the Standards for the Re-use of Public-sector Information and its Open Format Publishing, which obliges all state officials to stick to specific open data format requirements and to publish machine-readable data in the Open Data Portal.&lt;/p&gt;</summary>
+    </entry>
+      <entry>
+      <id>http://observatory.mappingtheinternet.eu/item/bulgaria-contributed-to-the-online-open-consultation-of-itu-jun</id>
+      <title>Bulgaria contributed to the Online Open Consultation of ITU (Jun-Aug 2015 ) on the establishment of Internet Exchange Points (IXPs)</title>
+      <link href="http://observatory.mappingtheinternet.eu/item/bulgaria-contributed-to-the-online-open-consultation-of-itu-jun" />
+      <updated>2016-01-10T19:38:51+02:00</updated>
+      <summary type="html">&lt;p&gt;In August 2015, the Bulgarian government submitted a contribution in response to the call for submissions of the International Telecommunications Union (ITU) on the establishment of Internet Exchange Points (IXPs) to advance connectivity, improve service quality and increase network stability and resilience, fostering competition and reducing interconnection costs, as proposed by Opinion 1 of WTPF-13 and consistent with PP-14 Resolutions 101 and 102.&lt;/p&gt;&lt;p&gt;The contribution is available &lt;a href=&quot;http://www.itu.int/en/council/cwg-internet/Pages/display-june2015.aspx?ListItemID=42&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
+    </entry>
+  </feed>

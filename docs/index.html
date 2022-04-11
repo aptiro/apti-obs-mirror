@@ -1,0 +1,412 @@
+<!doctype html>
+<html lang="en-GB">
+    	<head>
+        <link rel="icon" href="theme/default/img/favicon.ico"/>
+		<meta charset="utf-8"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+        <title>
+                            Policy Observatory of the MAPPING FP7 project
+                    </title>
+
+		<meta name="viewport" content="width=device-width, maximum-scale=1.0"/>
+                    <meta name="description" content="Policy watch from Europe on Privacy, Intellectual Property Rights and Internet Governance policies">
+                    <meta name="generator" content="Bolt">
+                    <link rel="canonical" href="index.html">
+        
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+
+        <link rel="stylesheet" href="theme/default/css/site.css"/>
+
+		<!--[if lt IE 9]>
+			<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+
+				<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js'></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.5/leaflet.js'></script>
+		<link href='https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.5/leaflet.css' rel='stylesheet'>
+		
+		
+
+	</head>
+
+	<body>
+	<div class="container">
+
+        <div class="row">
+            <div class="col-sm-9">
+                <h1>
+                    <a href="index.html">
+                        <img src="theme/default/img/MAPPING_logo.png" alt="Policy Observatory"> Policy Observatory
+                    </a>
+                </h1>
+            </div>
+            <div class="col-sm-3">
+                <form method="get" action="https://observatory.mappingtheinternet.eu/search" id="searchform" enctype="text/plain" class="form-inline">
+                    <div class="form-group">
+                        <input type="text" name="search" value="" placeholder="Search for ..." class="form-control">
+                        <button class="btn btn-success">
+                            <span class="glyphicon glyphicon-search"></span>
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="row">
+
+
+            <div class="col-sm-12">
+                <nav class="navbar navbar-default">
+    <ul class="nav navbar-nav">
+                <li class="first">
+            <a href="index.html">
+                Home
+                            </a>
+                    </li>
+                <li class="">
+            <a href="page/about.html">
+                About
+                            </a>
+                    </li>
+                <li class="">
+            <a href="overview.html">
+                News &amp; Views
+                            </a>
+                    </li>
+                <li class="">
+            <a href="suggest/index.html">
+                Suggest
+                            </a>
+                    </li>
+                        <li class=" pull-right">
+            <a href="page/startups.html">
+                Startups
+                            </a>
+                    </li>   
+                <li class="dropdown pull-right">
+            <a href="page/privacy.html">
+                Privacy
+                                    <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu" role="menu">
+                                            <li class="">
+                            <a href="page/data-retention-legislation-europe.html">
+                                Data retention legislation in Europe
+                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="page/personal-data-breaches-policies-europe.html">
+                                Personal data breaches
+                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="page/personal-data-security-policies-europe.html">
+                                Personal data security
+                            </a>
+                        </li>
+                                    </ul>
+                    </li>   
+                <li class="dropdown pull-right">
+            <a href="page/ipr.html">
+                Intellectual Property Rights
+                                    <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu" role="menu">
+                                            <li class="">
+                            <a href="page/basic-intellectual-property-legislation-europe.html">
+                                Basic Intellectual Property Legislation
+                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="page/eu-orphan-works-directive-implementation.html">
+                                EU Orphan Works directive implementation
+                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="page/internet-blocking-ipr-enforcement.html">
+                                Internet blocking or filtering following IPRs enforcement measures
+                            </a>
+                        </li>
+                                    </ul>
+                    </li>   
+                <li class="dropdown pull-right">
+            <a href="page/ig.html">
+                Internet Governance
+                                    <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu" role="menu">
+                                            <li class="">
+                            <a href="page/european-cctlds-management-table.html">
+                                European ccTLDds Management
+                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="page/european-actors-internet-governance.html">
+                                European actors in Internet Governance discussions
+                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="page/net-neutrality-policies.html">
+                                Net Neutrality Policies
+                            </a>
+                        </li>
+                                    </ul>
+                    </li>   
+           
+        <li class="pull-right no-link">
+            Policy Overview:
+        </li>
+    </ul>
+</nav>
+                <header id="page-header" role="navigation">
+                </header>
+            </div>
+
+        </div>
+
+        
+
+
+
+
+        <div class="row content">
+                            <div class="col-sm-8">
+            <div class="row welcome">
+    <div class="col-sm-12">
+        <p>The MAPPING Policy Observatory is a “policy watch” in several European countries in the areas of Privacy, Intellectual Property Rights and Internet Governance.
+Check out the synthetic overview on <a href="overview.html">the policy news</a> or <a href="overview/feed.xml">subscribe to its RSS feed</a>.
+Or select one of the comparative policy overview tables on <a href="page/privacy.html">Privacy</a>, <a href="page/ipr.html">Intellectual Property</a>, <a href="page/ig.html">Internet Governance</a>
+or <a href="page/startups.html">Startups</a>
+</p>
+
+    </div>
+</div>
+            <div class="row">
+            <div class="col-sm-12">
+                <div class="panel panel-default">
+    <div class="panel-heading">
+        <span class="blueArrow"></span>
+        Facebook fined for data breaches in Cambridge Analytica scandal
+    </div>
+    <div class="panel-date">
+        Wed 11 Jul 2018, 21:07
+    </div>
+    <div class="panel-body">
+        <p>Facebook is to be fined £500,000, the maximum amount possible, for its part in the Cambridge Analytica scandal, the information commissioner has announced. The fine is for two breaches of the Data Protection Act. The Information Commissioner’s Office concluded that Facebook failed to safeguard its users’ information and that it failed to be transparent about how that data was harvested by others.</p>
+    </div>
+    <div class="panel-footer">
+        <div class="read-more">
+            <a href="item/facebook-fined-for-data-breaches-in-cambridge-analytica-scandal.html">
+                Read more &raquo;
+            </a>
+        </div>
+        
+        <div class="taguri">
+                        <p>
+                Tags:
+                                    <a href="tags/UK.html">UK</a>,                                     <a href="tags/DPA.html">DPA</a>,                                     <a href="tags/personal&#32;data.html">personal data</a>,                                     <a href="tags/fine.html">fine</a>,                                     <a href="tags/data&#32;breach.html">data breach</a>,                                     <a href="tags/Cambridge&#32;Analytica.html">Cambridge Analytica</a>                            </p>
+                    </div>
+    </div>
+</div>
+            </div>
+        </div>
+                            <div class="row">
+
+            <div class="news-menu">
+                <p>News</p>
+            </div>
+        
+        
+
+        <div class="col-sm-6">
+            
+
+            <div class="panel panel-default">
+    <div class="panel-heading">
+        <span class="blueArrow"></span>
+        EU court rules against Facebook class action
+    </div>
+    <div class="panel-date">
+        Thu 25 Jan 2018, 14:20
+    </div>
+    <div class="panel-body">
+        <p>The European Court of Justice in Luxembourg on Thursday ruled that Austrian privacy campaigner Max Schrems cannot lodge a class action suit against Facebook Ireland. Schrems was seeking to stake the collective claim on the behalf of 25,000 people. The judges instead said he can file an individual case. Schrems maintains that Facebook violates the privacy of European-based users.</p>
+    </div>
+    <div class="panel-footer">
+        <div class="read-more">
+            <a href="item/ticker-eu-court-rules-against-facebook-class-action.html">
+                Read more &raquo;
+            </a>
+        </div>
+        
+        <div class="taguri">
+                        <p>
+                Tags:
+                                    <a href="tags/CJEU.html">CJEU</a>,                                     <a href="tags/Facebook.html">Facebook</a>,                                     <a href="tags/Max&#32;Schrems.html">Max Schrems</a>,                                     <a href="tags/class&#32;action.html">class action</a>,                                     <a href="tags/court&#32;decision.html">court decision</a>,                                     <a href="tags/privacy.html">privacy</a>                            </p>
+                    </div>
+    </div>
+</div>
+        </div>
+                
+        
+
+        <div class="col-sm-6">
+            
+
+            <div class="panel panel-default">
+    <div class="panel-heading">
+        <span class="blueArrow"></span>
+        The Bulgarian EU Council presidency and the latest assault on ePrivacy
+    </div>
+    <div class="panel-date">
+        Wed 7 Feb 2018, 19:00
+    </div>
+    <div class="panel-body">
+        <p>In January 2018, the Bulgarian Presidency of the Council of the European Union picked up where the Estonian Presidency left off on the ePrivacy Regulation. It issued two examinations of the last Estonian “compromise” proposal and asked national delegations for guidance on some issues. Together, the documents cover most of the key points of the text. While the Bulgarian Presidency brings clarity on some points, its questions pave the way to undermine the text – and therefore threatens the protection of citizens’ privacy, confidentiality of communications of both citizens and businesses, as well as the positions of innovative EU companies and trust in the online economy.</p>
+    </div>
+    <div class="panel-footer">
+        <div class="read-more">
+            <a href="item/the-bulgarian-eu-council-presidency-the-latest-assault-on-epriva.html">
+                Read more &raquo;
+            </a>
+        </div>
+        
+        <div class="taguri">
+                        <p>
+                Tags:
+                                    <a href="tags/ePrivacy.html">ePrivacy</a>,                                     <a href="tags/electronic&#32;communications.html">electronic communications</a>,                                     <a href="tags/EU.html">EU</a>                            </p>
+                    </div>
+    </div>
+</div>
+        </div>
+                <!-- 2nd priority featured items loop end -->
+            </div>
+
+
+            </div>
+                                    <div class="col-sm-4 mapping-sidebar">
+                <div id="homepage-map" style="height: 300px"></div>
+                    <div id="tag-cloud">
+                                                                <a href="tags/copyright.html" style="font-size: 1.0792291220557em;">
+                            copyright
+                        </a>
+                                            <a href="tags/court-decision.html" style="font-size: 1.0792291220557em;">
+                            court decision
+                        </a>
+                                            <a href="tags/data-protection.html" style="font-size: 1.65em;">
+                            data protection
+                        </a>
+                                            <a href="tags/eu.html" style="font-size: 1.0792291220557em;">
+                            EU
+                        </a>
+                                            <a href="tags/european-commission.html" style="font-size: 1.0792291220557em;">
+                            European Commission
+                        </a>
+                                            <a href="tags/france.html" style="font-size: 1.0792291220557em;">
+                            France
+                        </a>
+                                            <a href="tags/fundamental-rights.html" style="font-size: 1.0792291220557em;">
+                            fundamental rights
+                        </a>
+                                            <a href="tags/human-rights.html" style="font-size: 1.0792291220557em;">
+                            human rights
+                        </a>
+                                            <a href="tags/intelligence-agencies.html" style="font-size: 1.0792291220557em;">
+                            intelligence agencies
+                        </a>
+                                            <a href="tags/internet.html" style="font-size: 2.49em;">
+                            Internet
+                        </a>
+                                            <a href="tags/internet-governance.html" style="font-size: 1.0792291220557em;">
+                            Internet Governance
+                        </a>
+                                            <a href="tags/ipr.html" style="font-size: 1.0792291220557em;">
+                            IPR
+                        </a>
+                                            <a href="tags/law-enforcement.html" style="font-size: 1.0792291220557em;">
+                            law enforcement
+                        </a>
+                                            <a href="tags/net-neutrality.html" style="font-size: 1.0792291220557em;">
+                            net neutrality
+                        </a>
+                                            <a href="tags/netherlands.html" style="font-size: 1.0792291220557em;">
+                            Netherlands
+                        </a>
+                                            <a href="tags/privacy.html" style="font-size: 3em;">
+                            privacy
+                        </a>
+                                            <a href="tags/report.html" style="font-size: 1.0792291220557em;">
+                            report
+                        </a>
+                                            <a href="tags/security.html" style="font-size: 1.0792291220557em;">
+                            security
+                        </a>
+                                            <a href="tags/surveillance.html" style="font-size: 1.38em;">
+                            surveillance
+                        </a>
+                                            <a href="tags/us.html" style="font-size: 1.0792291220557em;">
+                            US
+                        </a>
+                                    </div>
+                <a href="index.html"><img src="theme/default/img/observatory_logo.jpg" alt="Policy Observatory"></a>
+            </div>
+            <script src="theme/default/js/apti-map.js"></script>
+
+                    </div> 
+        <footer id="page-footer" role="navigation">
+        </footer>   
+    <footer class="clearfix">
+        
+<div class="row">
+    <div class="col-sm-6 flag-footer">
+        <div class="flag-footer flag">
+            <img src="theme/default/img/flag.jpg" alt="European Union" />
+        </div>
+        <div class="flag-footer text">
+            <p><strong>The <a href="http://mappingtheinternet.eu">MAPPING project</a> has received funding<br>from the European Union’s<br>Seventh Framework Programme for research,<br>technological development and demonstration<br>under grant agreement no 612345.</strong></p>
+        </div>
+    </div>
+    <div class="col-sm-2">
+
+    </div>
+    <div class="col-sm-4">
+        <div class="social-links">
+
+                <a class="by" href="http://creativecommons.org/licenses/by/4.0/" target="_blank">
+                    <img src="theme/default/img/by.png" alt="CCBY">
+                </a>
+        </div>
+        <ul class="nav nav-pills">
+                                        </ul>
+    </div>
+</div>
+    </footer>    
+    </div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+
+<!-- Piwik -->
+<script type="text/javascript">
+ var _paq = _paq || [];
+ _paq.push(['trackPageView']);
+ _paq.push(['enableLinkTracking']);
+ (function() {
+   var u=(("https:" == document.location.protocol) ? "https" :
+"http") + "://apti.ro/trafic/";
+   _paq.push(['setTrackerUrl', u+'piwik.php']);
+   _paq.push(['setSiteId', 6]);
+   var d=document, g=d.createElement('script'),
+s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+   g.defer=true; g.async=true; g.src=u+'piwik.js';
+s.parentNode.insertBefore(g,s);
+ })();
+</script>
+<noscript><p><img src="http://apti.ro/trafic/piwik.php?idsite=6"
+style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+</body>
+	
+</html>
+
